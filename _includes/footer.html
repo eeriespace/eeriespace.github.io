@@ -1,0 +1,17 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer left column one-half">
+      <section class="small-font">
+        All content is © The Eerie Space unless said otherwise.
+      </section>
+    </div>
+
+    <div class="footer right column one-half">
+      <section class="small-font">
+        {% if site.twitter_username %}
+        {% include icon-twitter.html username=site.twitter_username %}
+        {% endif %}
+      </section>
+    </div>
+  </div>
+</footer>
