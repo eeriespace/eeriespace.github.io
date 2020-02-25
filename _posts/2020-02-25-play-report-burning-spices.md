@@ -56,7 +56,7 @@ warehouse, property of Burning Spices Limited, near the Isle of Dogs.
 
 ### Generating the location
 
-The mission takes place in an ``Abandoned Complex`` at has the following
+The mission takes place in an ``Abandoned Complex`` and has the following
 locations:
 
 * A - Main entrance

@@ -20,7 +20,8 @@ Solo RPG campaigns that I'm running:
 * Unnamed campaign with [Mothership](http://www.tuesdayknightgames.com/mothership).
 * Unnamed hexcrawl campaign with [Labyrinth
   Lord](https://www.drivethrurpg.com/product/78524/Advanced-Edition-Companion-Labyrinth-Lord-noart-version)
-  (which is in the process of being switch to [Old School Essentials](https://necroticgnome.com/collections/old-school-essentials)).
+  (which is in the process of being switched to [Old School
+  Essentials](https://necroticgnome.com/collections/old-school-essentials)).
 
 Solo RPGs that I would like to run:
 
