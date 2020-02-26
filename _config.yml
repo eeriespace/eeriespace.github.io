@@ -26,7 +26,7 @@ kramdown:
 # Third-party services
 # just leave someone empty to disable it
 google_analytics: UA-159094225-1
-disqus_shortname:
+disqus_shortname: eeriespace
 
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
