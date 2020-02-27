@@ -12,7 +12,8 @@ random thoughts.
 My favourite part of playing is world-building, and I often choose what I'm
 going to play depending on the world that the book is offering. I'm in constant
 search for the perfect setting, right now that would be a mixture of: Dai Dark,
-The Expanse, Biomega, Blame! and Dorohedoro. Then add lots of yokai.
+The Expanse, Biomega, Caves of Qud, Blame! and Dorohedoro. Then add lots of
+yokai.
 
 Solo RPG campaigns that I'm running: 
 
