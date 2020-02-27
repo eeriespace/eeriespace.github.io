@@ -207,7 +207,7 @@ She manages to get out without any further encounters!
 
 ## Mission recap
 
-Lana was extremely lucky today, and for some reason the Guards where very
+Lana was extremely lucky today, and for some reason the Guards were very
 friendly.
 
 * Two dead guards: +10 chaos points and -10 favour
