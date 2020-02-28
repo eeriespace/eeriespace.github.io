@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Sabotage the Burning Spices' warehouse
-category: play-report
+category: "Play report"
 description: "Lana Vanne's first mission, a sabotage in an old spice warehouse,
 using Seekers Beyond the Shroud"
+tags: [Seekers Beyond the Shroud]
 ---
 
 Play report of *Lana Vanne's ascension to the occult* campaign using [Seekers

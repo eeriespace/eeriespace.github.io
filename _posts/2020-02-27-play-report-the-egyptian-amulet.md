@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Recover the Egyptian amulet
-category: play-report
+category: "Play report"
 description: "Lana Vanne's second mission, recovering an ancient Egyptian
 amulet from the British Museum (Seekers Beyond the Shroud)"
+tags: ["Seekers Beyond the Shroud"]
 ---
 
 Play report of the second session of *Lana Vanne's ascension to the occult*

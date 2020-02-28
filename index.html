@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Home
 ---
 
 <div class="home">
@@ -24,15 +23,18 @@ title: Home
           Read more </a>
         </p> 
       </div>
+      <div class="post_excerpt">
+        <p>{% assign sorted_tags = post.tags | sort %}
+          <data data-icon="ei-tag"></data>
+          {% for tag in sorted_tags %}
+          <span class="post_tag">
+            <a class="post_tag" href="/tag/{{tag | slugify}}">
+              {{tag}}</a>{% if forloop.last == false %},{% endif %}
+          </span>
+          {% endfor %}
+        </p>
+      </div>
       <footer class="post_meta">
-
-
-        {% if post.location %}
-        <span class="author-location">
-          <div data-icon="ei-location"></div>
-          <a href=https://www.google.com/maps/place/{{post.location}}">{{ post.location }}</a>
-        </span>
-        {% endif %}
         <!--
         {% for category in post.categories %}
         <a href="{{"/category/" | append: category | prepend: site.baseurl }}">

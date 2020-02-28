@@ -14,8 +14,12 @@ layout: default
       {% endif %}
     <p class="article_meta">
       {% assign sorted_tags = page.tags | sort %}
+      <data data-icon="ei-tag"></data>
       {% for tag in sorted_tags %}
-      <span class"post_date"><a href="{{site.baseurl}}/tags/{{tag}}">{{tag}}</a></span>
+      <span class="post_tag">
+        <a href="{{site.baseurl}}/tag/{{tag | slugify}}">
+          {{tag}}</a>{% if forloop.last == false %},{% endif %}
+      </span>
       {% endfor %}
     </p>
     </p>
