@@ -274,7 +274,7 @@ Nothing appears on this room.
 
 After going through the room with the strongbox the women arrive to the long
 hallway that makes a turn to the entrance. A **Orisha agent** crosses their
-path, but they keep their cool and continue walking. ``<NPC reaction: ignore>`` 
+path, but they keep their cool and continue walking. ``NPC reaction: ignore`` 
 
 ### Hallway 1 - Ground floor
 
@@ -306,7 +306,7 @@ would be willing to join the Causa Cientiae Order.
 
 Kaira answers that she is not interested in joining an order with people as
 weak as her; Lana answers that she cannot join any order yet, and Kaira replies 
-"Rightly so". ``<Persuasion check>``
+"Rightly so". ``Persuasion check``
 
 > Kaira is so mean.
 
