@@ -162,7 +162,7 @@ useless.
 
 ### Hallway 1 - Ground floor
 
-She still tries to go though with the mission, her pride refusing her to quit
+She still tries to go through with the mission, her pride refusing her to quit
 after just entering the lab.
 
 There is nothing interesting in this hallway. Lana tries again to patch her
