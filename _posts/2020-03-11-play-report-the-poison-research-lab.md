@@ -123,10 +123,10 @@ horrible creatures that almost killed her a [couple of days
 ago]({{site.baseurl}}/2020/02/25/play-report-burning-spices/), but somehow
 manages to compose herself and shots a bullet from her pistol, which strikes.
 The chimera reaches her and rips her *Light kevlar armour*, she has to take it
-of in a hurry because the chimera's saliva is corrosive and renders the armour
+off in a hurry because the chimera's saliva is corrosive and renders the armour
 useless and dangerous to whom it is wearing it. Lana tries to escape in vain.
 
-The chimera then attacks again and Lana is yest unable to elude its claws, the
+The chimera then attacks again and Lana is yet unable to elude its claws, the
 pain paralyses her.
 
 Another attack, this time one that Lana can elude; using the momentum she tries
