@@ -341,5 +341,3 @@ I might be considering writing a small table with some different yōkai that you
 could encounter at each different site to have more variety.
 
 <hr>
-
-[^1]: *Myths & legends of ancient Egypt*, Joyce Tyldesley. Penguin Books 2011.
