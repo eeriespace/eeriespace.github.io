@@ -183,7 +183,7 @@ The trend persists, nothing of interest and Lana cannot heal herself.
 
 A possessed person, an entity known as a **Bhuta** rushes towards Lana, but is
 too slow, she can shot at it as it approaches and later on slash the Bhuta with
-her knife, but the luck is not on her side, and misses it for a cm.
+her knife, but luck is not on her side, and misses it for a cm.
 
 Lana has another chance to attack, but she fails again, the bhuta does the same
 and the attack is identically dodged.
