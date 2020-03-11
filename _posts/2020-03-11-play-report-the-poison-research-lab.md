@@ -71,7 +71,7 @@ all the stores (but not the bars) are closed. ``Daily event: store closed``
 Resigned, she starts walking to the Order's Hall where she meets Merle Morton,
 a renowned spiritist specialised in the fire element and those entities that
 have a liking to it. Since the vestige that Lana wants to invoke has also
-something to do with fire, and because she has made her homework, she is able
+something to do with fire, and because she has done her homework, she is able
 to keep a conversation with the expert and he is impressed. They exchange phone 
 numbers. ``CHA check`` 
 
