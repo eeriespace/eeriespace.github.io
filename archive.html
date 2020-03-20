@@ -26,6 +26,18 @@ title: Archive
 
   </section>
 
+  <h2>Tag cloud</h2>
+  <section class="archive_list">
+    {% assign sorted_tags = site.tags | sort %}
+    {% for tag in site.tags %}
+    <span class="post_tag">
+      <a class="post_tag" href="/tag/{{tag[0] | slugify }}">
+        <data data-icon="ei-tag"></data>{{tag[0]}}</a>
+      {% if forloop.last == false %},{% endif %}
+    </span>
+    {% endfor %}
+  </section>
+
   <footer class="article-footer" mar>
   </footer>
 </div>
