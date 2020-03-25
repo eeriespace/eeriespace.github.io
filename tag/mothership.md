@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: Mothership"
+title: "Tag: Mothership"
 tag: "Mothership"
 ---

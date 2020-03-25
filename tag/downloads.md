@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-title: "Etiqueta: Downloads"
+title: "Tag: Downloads"
 tag: "Downloads"
 ---
