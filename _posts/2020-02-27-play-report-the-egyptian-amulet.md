@@ -20,8 +20,8 @@ Today is a very busy day at the Omphalos, there are people walking in a hectic
 pace and representatives from all the Orders that Lana knows of are talking in
 groups. ``Daily event: representatives Meeting``
 
-Lana is in a cafe talking to Cecil Lyons, the representative from the Causa
-Cientiae order that gave her yesterday's mission. Keith Head, a friend of
+Lana is in a cafe talking to **Cecil Lyons**, the representative from the Causa
+Cientiae order that gave her yesterday's mission. **Keith Head**, a friend of
 Cecil's and also from the order, has joined and starts commenting what Lana
 should and what she shouldn't have done in yesterday's mission. He pisses Lana
 off, but she doesn't comment anything. ``Random encounter: taking offence``

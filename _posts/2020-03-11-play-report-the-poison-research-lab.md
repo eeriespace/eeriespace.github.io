@@ -68,12 +68,12 @@ all the stores (but not the bars) are closed. ``Daily event: store closed``
 
 > \*sigh\* No shopping today...
 
-Resigned, she starts walking to the Order's Hall where she meets Merle Morton,
-a renowned spiritist specialised in the fire element and those entities that
-have a liking to it. Since the vestige that Lana wants to invoke has also
-something to do with fire, and because she has done her homework, she is able
-to keep a conversation with the expert and he is impressed. They exchange phone 
-numbers. ``CHA check`` 
+Resigned, she starts walking to the Order's Hall where she meets **Merle
+Morton**, a renowned spiritist specialised in the fire element and those
+entities that have a liking to it. Since the vestige that Lana wants to invoke
+has also something to do with fire, and because she has done her homework, she
+is able to keep a conversation with the expert and he is impressed. They
+exchange phone numbers. ``CHA check`` 
 
 Then Lana greets Cecil, apparently the Causa Cientiae order is the only one
 whose members aren't all drinking on a bar.
@@ -245,7 +245,7 @@ and drinks the *Healing Concoction*.
 It doesn't seem to be anything of interest there at first, but then she hears
 some noises coming out of one of the cars. She breaks the window of the car
 with her elbow and sees a blindfolded and handcuffed woman. After releasing
-her, the woman tells her that she is Kaira Duran, a Cameroonian alchemy
+her, the woman tells her that she is **Kaira Duran**, a Cameroonian alchemy
 researcher. ``NPC traits: drifter, fame, fragile``
 
 Lana has successfully located the hostage, but now they both have to escape to

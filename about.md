@@ -17,10 +17,19 @@ yokai.
 
 Solo RPG campaigns that I'm running: 
 
-* Lana Vanne's ascension to the occult with [Seekers Beyond the Shroud](https://blackoathgames.com/seekers-beyond-the-shroud).
-* Unnamed campaign with [Mothership](http://www.tuesdayknightgames.com/mothership).
-* Unnamed hexcrawl campaign with [Labyrinth
-  Lord](https://www.drivethrurpg.com/product/78524/Advanced-Edition-Companion-Labyrinth-Lord-noart-version)
+* Lana Vanne's *Ascension to the Occult* with **[Seekers Beyond the
+  Shroud](https://blackoathgames.com/seekers-beyond-the-shroud)**.
+  * Sessions: [1]({{site.baseurl}}/2020/02/25/play-report-burning-spices/),
+  [2]({{site.baseurl}}/2020/02/27/play-report-the-egyptian-amulet/),
+  [3]({{site.baseurl}}/2020/03/11/play-report-the-poison-research-lab/),
+  [4]({{site.baseurl}}/2020/03/25/play-report-vice-and-virtue-tea-shop/),
+  5 & 6
+* Unnamed campaign with
+  **[Mothership](http://www.tuesdayknightgames.com/mothership)**.
+  * Sessions:
+    [1]({{site.baseurl}}/2020/02/29/play-report-faust-cherubim-king-10-704/)
+* Unnamed hexcrawl campaign with **[Labyrinth
+  Lord](https://www.drivethrurpg.com/product/78524/Advanced-Edition-Companion-Labyrinth-Lord-noart-version)**
   (which is in the process of being switched to [Old School
   Essentials](https://necroticgnome.com/collections/old-school-essentials)).
 

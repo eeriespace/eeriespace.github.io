@@ -19,7 +19,9 @@ that you are, you can roll for a more thematic yōkai per location.
 It still needs to be playtested.
 
 ## Download link:
-**[The Yōkai Bestiary](https://drive.google.com/file/d/1K8sRpkFSpobeLvpB7Yprpg6TVvbRkMiS/view)** (Google Drive)
+**[The Yōkai
+Bestiary](https://drive.google.com/file/d/1K8sRpkFSpobeLvpB7Yprpg6TVvbRkMiS/view)**
+(Google Drive, 8 pages)
 
 ## Preview:
 
