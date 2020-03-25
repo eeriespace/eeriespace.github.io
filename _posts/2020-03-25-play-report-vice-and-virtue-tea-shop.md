@@ -208,7 +208,10 @@ Mary from the Kadmonites is not pleased with the results.
   
 Well, I've lost some favour, but I could sell the loot for some obols, not that
 bad. These "extermination" missions are still not for my character, she is too
-weak for those. I think that I would need to get some potions or restorative
+weak for those.
+> They're not my cup of tea (haha bad pun, sorry).
+
+I think that I would need to get some potions or restorative
 magic before attempting a mission like this again. I also should have retreated
 after the first NPC encounter (after the second rogue mage), since I got lucky
 going back to the exit, but if the character would have encountered another
