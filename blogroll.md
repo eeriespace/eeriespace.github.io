@@ -9,6 +9,7 @@ In alphabetical order (also, in progress):
 * [The Borderlands](https://dndborderlands.blogspot.com/)
 * [Beyond Fomalhaut](https://beyondfomalhaut.blogspot.com)
 * [Buildings Are People](https://buildingsarepeople.blogspot.com)
+* [Cavegirl's Game Stuff](https://cavegirlgames.blogspot.com/)
 * [The chromatic cauldron](https://chaudronchromatique.blogspot.com/)
 * [Coins and Scrolls](https://coinsandscrolls.blogspot.com/)
 * [Dungeons and Possums](https://dungeonspossums.blogspot.com/)
