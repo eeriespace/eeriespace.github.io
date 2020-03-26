@@ -24,7 +24,8 @@ Solo RPG campaigns that I'm running:
   [3]({{site.baseurl}}/2020/03/11/play-report-the-poison-research-lab/),
   [4]({{site.baseurl}}/2020/03/25/play-report-vice-and-virtue-tea-shop/),
   [5 &
-  6]({{site.baseurl}}/2020/03/26/play-report-the-sinister-industrial-complex/).
+  6]({{site.baseurl}}/2020/03/26/play-report-the-sinister-industrial-complex/),
+  [7-14]({{site-baseurl}}/2020/03/27/play-report-more-than-a-week-of-magic-ritual-training/).
 * Unnamed campaign with
   **[Mothership](http://www.tuesdayknightgames.com/mothership)**.
   * Sessions:
