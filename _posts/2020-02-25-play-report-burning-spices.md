@@ -5,6 +5,7 @@ category: "Play report"
 description: "Lana Vanne's first mission, a sabotage in an old spice warehouse,
 using Seekers Beyond the Shroud"
 tags: [Seekers Beyond the Shroud]
+imghtml: https://raw.githubusercontent.com/eeriespace/public-images/1fdbe5a32685f3eec21afd91561644e2e1fbcd86/20200225-play-report-burning-spices/map-burning-spices-limited.01.jpg
 ---
 
 Play report of *Lana Vanne's ascension to the occult* campaign using [Seekers

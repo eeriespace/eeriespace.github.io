@@ -4,6 +4,7 @@ title: The Yōkai Bestiary for Seekers Beyond the Shroud
 category: "Resources"
 description: "A yōkai bestiary that you can use with Seekers Beyond the Shroud"
 tags: ["Seekers Beyond the Shroud", "Downloads"]
+imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200322-yokai-bestiary/yokai-bestiary.png
 ---
 
 In one of [my past play

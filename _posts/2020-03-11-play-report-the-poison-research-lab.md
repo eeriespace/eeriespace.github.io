@@ -5,6 +5,7 @@ category: "Play report"
 description: "Lana Vanne's third mission, a dangerous rescue at an abandoned
 poison research lab (Seekers Beyond the Shroud)"
 tags: ["Seekers Beyond the Shroud"]
+imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200311-play-report-the-poison-research-lab/map-poison-research-lab.jpg
 ---
 
 Play report of the third session of *Lana Vanne's ascension to the occult*

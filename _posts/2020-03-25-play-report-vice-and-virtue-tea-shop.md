@@ -5,6 +5,7 @@ category: "Play report"
 description: "Lana Vanne's fourth mission, the Kadmonites Order needs help to
 stop a terrorist cell! (Seekers Beyond the Shroud)"
 tags: ["Seekers Beyond the Shroud"]
+imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200324-play-report-vice-and-virtue-tea-shop/map-vice-and-virtue-tea-shop.jpg
 ---
 
 Play report of the fourth session of *Lana Vanne's ascension to the occult*
@@ -70,7 +71,7 @@ for some other day.
  * E - Recreation room
  * F - Parking loot
  
- ![](https://raw.githubusercontent.com/eeriespace/public-images/master/20200324-play-report-vice-and-virtue-tea-shop/map-vice-and-virtue-tea-shop.jpg)
+![](https://raw.githubusercontent.com/eeriespace/public-images/master/20200324-play-report-vice-and-virtue-tea-shop/map-vice-and-virtue-tea-shop.jpg)
 <p align="center"><small>The Vice & Virtue abandoned tea shop</small></p>
 
 

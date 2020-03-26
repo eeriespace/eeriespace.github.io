@@ -2,10 +2,11 @@
 layout: post
 title: Sabotage the sinister industrial complex
 category: "Play report"
-description: "Lana Vanne's 5th and 6th missions, there is some spooky
- business happening at a sinister industrial complex that she needs
+description: "Lana Vanne's 5th and 6th missions, there is some spooky 
+ business happening at a sinister industrial complex that she needs 
  to sabotage (Seekers Beyond the Shroud)"
 tags: ["Seekers Beyond the Shroud"]
+imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200326-play-report-sinister-industrial-complex/sinister-industrial-complex.jpg
 ---
 
 Play report of the 5th and 6th sessions of *Lana Vanne's ascension to the occult*

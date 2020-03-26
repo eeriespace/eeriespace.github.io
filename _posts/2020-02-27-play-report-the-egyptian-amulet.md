@@ -5,6 +5,7 @@ category: "Play report"
 description: "Lana Vanne's second mission, recovering an ancient Egyptian
 amulet from the British Museum (Seekers Beyond the Shroud)"
 tags: ["Seekers Beyond the Shroud"]
+imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200227-play-report-the-egyptian-amulet/map-british-museum-egyptian-area.jpg
 ---
 
 Play report of the second session of *Lana Vanne's ascension to the occult*
