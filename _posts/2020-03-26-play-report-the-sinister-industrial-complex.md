@@ -9,8 +9,8 @@ tags: ["Seekers Beyond the Shroud"]
 imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200326-play-report-sinister-industrial-complex/sinister-industrial-complex.jpg
 ---
 
-Play report of the 5th and 6th sessions of *Lana Vanne's ascension to the occult*
-campaign using [Seekers Beyond The
+Play report of the 5th and 6th sessions of *Lana Vanne's ascension to the
+occult* campaign using [Seekers Beyond The
 Shroud](https://blackoathgames.com/seekers-beyond-the-shroud).
 
 You may want to read the 
@@ -25,7 +25,7 @@ of the campaign.
 Lana's goal for today is to consecrate one of the tools that she would need to
 summon **Taavi**, so she heads to the Omphalos.
 
-There the same spy that informed her about these being dangerous times
+There, the same spy that informed her about these being dangerous times
 [yesterday]({{site.baseurl}}/2020/03/25/play-report-vice-and-virtue-tea-shop/),
 warns her again. Lana doesn't care about this since she should be safe today
 performing rituals. ``Daily event: inside information`` 
@@ -99,20 +99,20 @@ Lana accepts the mission.
 
 ### Main entrance
 
-No enemies. There is a locked door, Lana opens it using her lockpicks.
+No enemies. There is a locked door, Lana opens it using her lock picks.
 ``Lockpicking check``
 
 Lana doesn't find any Alchemical stash here.
 
 ### Hallway 1
 
-There aren't any enemies. One failsafe is triggered by Lana, she is not hurt,
+There aren't any enemies. One fail safe is triggered by Lana, she is not hurt,
 but she hears some explosions nearby. ``DEX test`` ``Rec room and rooms 1, 3
 and 7 destroyed``
 
 > This is bad, now I have fewer places to search for the stashes...
 
-Lana doesn't find any Alchemical stash here.
+Lana doesn't find any Alchemical stash here either.
 
 ### Hallway 2
 
@@ -153,11 +153,11 @@ Lana wins the engagement round and makes a first shot that hits the Curator,
 then she uses her knife, but she is very clumsy and it falls to the ground. The
 combat continues, the Curator scores three hits but Lana manages to kill him.
 
-She loots his breath spray, surely these spies are always ready, a combat
-knife, a Beretta and a pair of very cool knight vision googles. The Curator is
-also wearing a *Military grade armor*, but is too heavy for Lana to carry.
+She loots his breath spray, "Surely these spies are always ready", a combat
+knife, a Beretta and a pair of very cool knight vision goggles. The Curator is
+also wearing a *Military grade armour*, but is too heavy for Lana to carry.
 
-> I have yet to find if the night vision googles would be useful, but they
+> I have yet to find if the night vision goggles would be useful, but they
 > sound very cool already.
 
 She tries to heal herself but she fails.
@@ -173,7 +173,7 @@ weird going on with their eyes.
 The Hinn is not very strong, she manages to kill it in three turns and she
 doesn't take any hits.
 
-Lana loots the Hinn's Bereta and combat knife.
+Lana loots the Hinn's Beretta and combat knife.
 
 **A man with a baseball bat** has seen her combat against the Hinn and is eager
 to blow off some steam fighting against Lana too. ``NPC reaction: hostile``
@@ -257,7 +257,7 @@ However, she is able to exit this complex safely.
 >
 > \*add some more confetti\*
 
-* 150 favour x2: 300 favour with Causa scientiae
+* 150 favour x2: 300 favour with Causa Scientiae
 * 500ø
 * Selling the loot: a combat knife, three berettas, a glock (full price) ->
   2700ø

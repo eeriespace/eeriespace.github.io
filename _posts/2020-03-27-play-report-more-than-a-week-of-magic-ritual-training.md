@@ -2,7 +2,8 @@
 layout: post
 title: More than a week of magic ritual training
 category: "Play report"
-description: "Lana Vanne's inmersion into her training to spirit summoning (Seekers Beyond the Shroud)"
+description: "Lana Vanne's inmersion into her training of spirit summoning 
+(Seekers Beyond the Shroud)" 
 tags: ["Seekers Beyond the Shroud"]
 imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200326-play-report-sinister-industrial-complex/sinister-industrial-complex.jpg
 ---
@@ -23,10 +24,11 @@ You may want to read the
 ## Sunday, first quarter - Day 7 at the Omphalos
 
 An enemy has followed Lana from the industrial complex that she visited
-yesterday, it is a **Failed Chimera**. ``Daily event: attack``
+[yesterday]({{site.baseurl}}/2020/03/26/play-report-the-sinister-industrial-complex),
+it is a **Failed Chimera**. ``Daily event: attack``
 
-> Sh*t. Well, I wont encounter any more enemies today and she's at full health,
-> let's give it a go.
+> Sh*t. Well, I won't encounter any more enemies today and she's at full
+> health, let's give it a go.
 
 Lana prepares herself for the fight, she hates these creatures so much and she
 believes to be in an advantageous position, so she intends to kill it. The
@@ -87,7 +89,7 @@ Lana heads to the ritual chambers but she sees a suspicious headed figure, she
 decides to follow them, and somehow it seems that they're planing some shady
 business indeed, some kind of attack to the Omphalos. She reports this fact to
 the security guards and the culprit sect, the **Covenant of the Glorious
-Dawn**, will surely remember her name.  ``+50 favour with all orders``
+Dawn**, will surely remember her name. ``+50 favour with all orders``
 ``Antagonist: Covenant of the Glorious Dawn``
 
 > I need to re-read the rules regarding antagonists.
@@ -99,14 +101,14 @@ once again aaaaand... fails. ``Magic liturgy check``
 
 ## Tuesday, full moon - Day 9 at the Omphalos
 
-**Ezra** a famous mind healer is in town, but Lana doesn't require his
+**Ezra**, a famous mind healer, is in town, but Lana doesn't require his
 services. ``Event: Ezra the mind mender``
 
 Since Lana hasn't taken any missions in a couple of days, strange rumours are
 flying around, she takes some time to speak about her most recent deeds and
-exploits, she now own a powerful magic relic, she has recently defeated a
-chimera and she is going to reach Rank I with the Causa Scientiae. ``Event:
-rumours`` ``CHA test``
+exploits, she now owns a powerful magic relic, she has recently defeated a
+chimera and she is going to reach Rank I with the Causa Scientiae
+soon. ``Event: rumours`` ``CHA test``
 
 She buys another *Frankincense*, rents a ritual chamber and tries to perform
 the ritual aaaand... fails. ``Magic liturgy check``
@@ -129,7 +131,7 @@ wounded`` ``First aid check``
 
 Lana stays a couple of minutes with the companions of Mary, trying to console
 them and then heads for the ritual chamber, when she realises that someone has
-token advantage of the chaos and has stolen 100ø from her. ``Encounter``
+taken advantage of the chaos and has stolen 100ø from her. ``Encounter``
 
 She buys the *frankincense* and rents a chamber, lights some candles, performs
 the incantations aaaaand... the ritual fails. ``Magic liturgy check``
@@ -174,12 +176,12 @@ at work``
 
 > Is good to know that this event exists.
 
-Cecil, Lana's friend from the Causa Scientiae Order, greets her, its been a
+Cecil, Lana's friend from the Causa Scientiae Order, greets her, it's been a
 long time since she has seen her, Lana tells her that she's been trying to
 consecrate some tools for a summoning ritual, but that it hasn't been going
 well. Cecil invites her to a ritual, that way Lana may gain some
-experience. Lana joins her and learns something. ``Encounter ceremony`` ``INT
-test`` ``Magical liturgy +1``
+experience. Lana joins her and learns something. ``Encounter ceremony``
+``INT test`` ``Magical liturgy +1``
 
 > This is also good! Now Magical liturgy is at 12.
 
@@ -199,9 +201,10 @@ tools, she would need to run some missions to get more obols tomorrow. She
 rents the ritual chamber, recites the words aaaaaand... fails.
 
 > Well, it isn't that bad, I can attempt another skill roll-up when the next
-> ritual attempt is made. I'm aiming to get to get this skill higher without
+> ritual attempt is made. I'm aiming to get this skill higher without
 > using the Magic Relic that Lana has (which gives a +10) to preserve it for
-> something more important. It will take a while but that is the plan.
+> something more important. It will take a while but that is the best plan that
+> I have.
 
 ## Week +1 day recap
 
