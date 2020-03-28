@@ -30,7 +30,7 @@ off, but she doesn't comment anything. ``Random encounter: taking offence``
 Lana heads to the Order's Hall, the representatives from the Mesu-Betesh are
 also in the hall, and since Lana has been told that they rarely appear at the
 Omphalos (something related to that they dislike being organised), she
-approaches a man with smoky eyes and asks whether the order has any mission
+approaches a man with smokey eyes and asks whether the order has any mission
 available.
 
 The man wants her to recover an ancient Egyptian amulet from an artefact

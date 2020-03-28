@@ -104,7 +104,7 @@ established in all the corners of space. One of these settlements is the
 FAUST CHERUBIM KING 10-704 space station, commanded by **Adam Hamilton**,
 which at the beginning of the year 4000 made a living by spying for the
 ecoterrorist communes.
-> I didn't want to fill any more details bout this NPC right now.
+> I didn't want to fill any more details about this NPC right now.
 
 **Faust-C**, as it's commonly known, is the source of both envy and admiration
 of many other space stations that conduct dishonest businesses. The whole space

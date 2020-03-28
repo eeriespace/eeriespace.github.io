@@ -16,7 +16,7 @@ You may want to read the
 [first]({{site.baseurl}}/2020/02/25/play-report-burning-spices/),
 [second]({{site.baseurl}}/2020/02/27/play-report-the-egyptian-amulet/), 
 [third]({{site.baseurl}}/2020/03/11/play-report-the-poison-research-lab/),
-[fourth]({{site.baseurl}}/2020/03/25/play-report-vice-and-virtue-tea-shop/), 
+[fourth]({{site.baseurl}}/2020/03/25/play-report-vice-and-virtue-tea-shop/) and 
 [5th &
 6th]({{site.baseurl}}/2020/03/26/play-report-the-sinister-industrial-complex) 
  parts of the campaign. 
