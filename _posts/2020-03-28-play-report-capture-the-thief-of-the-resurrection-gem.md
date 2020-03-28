@@ -25,7 +25,7 @@ and
 14th]({{site.baseurl}}/2020/03/27/play-report-more-than-a-week-of-magic-ritual-training/) 
  parts of the campaign.
  
-## Monday, first quarter - Day 15 at the Omphalosch
+## Monday, first quarter - Day 15 at the Omphalos
 
 Ezra is back again in town, Lana ignores him. ``Event: Ezra, the mind mender`` 
 
@@ -70,7 +70,7 @@ be present today. ``Event: hectic day + ezra + order dispute``
 
 There are many people walking around this day, however may of them are heading
 to the private meeting that the Orders are having, so Lana is able to speak
-with **Rosa A. Cunningham** a Salvadorean adept that is an expert of the
+with **Rosa A. Cunningham**, a Salvadorean adept that is an expert of the
 astral. Lana doesn't know much about the astral, but Rosa explains all about it
 to Lana and her enthusiasm is well received. She gives her her phone
 number. ``CHA test`` ``+50 favour with Causa Scientiae``
