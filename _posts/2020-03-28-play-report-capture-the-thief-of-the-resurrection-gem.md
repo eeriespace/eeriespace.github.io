@@ -190,6 +190,11 @@ skill. ``WILL check``
 >
 > This is a very bad punishment :(  but well, at least is not a random stat,
 > that could be catastrophic.
+>
+> Edit: apparently I don't know how to read anymore, the event said to reduce
+> -5 on a *skill* not *attribute*. So I'll be reducing *Carbine* which is a
+> combat skill related to weapons that I've never used. Thanks, @Alex T on the 
+> Blackoath discord for spotting my mistake.
 
 Lana tries to patch her wounds but fails.
 
