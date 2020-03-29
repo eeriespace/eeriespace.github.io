@@ -6,7 +6,7 @@ description: "Lana has to capture a thief that has stolen the Resurrection Gem
 from the Siddha Order, and also recover the gem in the process (Seekers Beyond
 the Shroud)"
 tags: ["Seekers Beyond the Shroud"]
-imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200326-play-report-sinister-industrial-complex/sinister-industrial-complex.jpg
+imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200328-play-report-capture-the-thief-of-the-resurrection-gem/natural-history-museum.jpg
 ---
 
 Play report of the 15th through 17th sessions of *Lana Vanne's ascension to the
