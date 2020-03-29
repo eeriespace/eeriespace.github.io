@@ -30,7 +30,7 @@ Solo RPG campaigns that I'm running:
 * Unnamed campaign with
   **[Mothership](http://www.tuesdayknightgames.com/mothership)**.
   * Sessions:
-    [1]({{site.baseurl}}/2020/02/29/play-report-faust-cherubim-king-10-704/)
+    [1]({{site.baseurl}}/2020/02/29/play-report-faust-cherubim-king-10-704/), [2]({{site.baseurl}}/2020/03/29/play-report-mothership-frozen-dreams/)
 * Unnamed hexcrawl campaign with **[Labyrinth
   Lord](https://www.drivethrurpg.com/product/78524/Advanced-Edition-Companion-Labyrinth-Lord-noart-version)**
   (which is in the process of being switched to [Old School
