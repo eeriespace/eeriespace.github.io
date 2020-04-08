@@ -45,11 +45,11 @@ secured to the ground, walls or ceiling, they will also start to float.
           get help in d10 minutes, you die. If you survive [-] on all rolls for
           24 hours.
           
-2. **Emergency manouvers.**[^1] The station needs to urgently make some emergency
-manouvers and you will feel some aggressive shakes. Unless you are anchored
-to a wall (mag boots are not enough) or tied up to piloting chair or the likes,
-you will be shaken d5 times (the next shake happens in d10+10 seconds),
-suffering d5 damage each time.
+2. **Emergency manoeuvres.**[^1] The station needs to urgently make some
+emergency manoeuvres and you will feel some aggressive shakes. Unless you are
+anchored to a wall (mag boots are not enough) or tied up to piloting chair or
+the likes, you will be shaken d5 times (the next shake happens in d10+10
+seconds), suffering d5 damage each time.
 
 3. **Life support system out.** It will reboot (maybe?) in d10+10 minutes. 
 Go find a vac suit, an oxygen mask or a pressurised cabin before you
