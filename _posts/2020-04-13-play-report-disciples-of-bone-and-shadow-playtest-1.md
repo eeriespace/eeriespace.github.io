@@ -66,7 +66,8 @@ of a master alchemist, **Kildrun**. She taught her the ways of the alchemists
 and Eldara got to know more about this art secretly studying more. One day she
 met the alchemy master's son, and a few months later she could no longer hide
 her fat belly. She kicked her out but just after taking her newborn *"This
-child will be what your arrogance and ingratitude prevented you from becoming"*
+child will be what your arrogance and ingratitude prevented you from
+becoming"*.
 
 But that happened several decades ago, Eldara is now a very old woman. She
 spent her life leaving some jats from time to time in her son's house, which
@@ -85,7 +86,7 @@ nearby that raises anything dead buried in it"*.
 
 So I think that the first goal for Eldara will be to investigate this rumour
 and try to get some substances or anything that causes that phenomenon in order
-to maybe sell it and get a profit? She has a background in alchemy, so maybe
+to maybe sell it and make a profit? She has a background in alchemy, so maybe
 she can monetise it. For now this is the main story arc.
 
 I use the *Undertaking a Journey* rules, since we will be hexcrawling without a
@@ -98,8 +99,8 @@ And we start!
 > This map has been made using [Hex Kit](https://cone.itch.io/hex-kit), this is
 > my first time using it, but I made it work.
 >
-> If someone knows how to rotate the hex-grid so that the top of the hex is
-> an edge instead of a vertex, please let me know!
+> ~~If someone knows how to rotate the hex-grid so that the top of the hex is
+> an edge instead of a vertex, please let me know!~~ Figured it out!
 
 
 ### Hex 2, Madari region
@@ -108,8 +109,8 @@ And we start!
 
 Eldara reaches a graveyard, she feels that this place is related to the site
 that she is looking for but her thoughts are interrupted by the graveyard
-keeper, an old man. He has seen her and takes a shovel, then shouts at her
-shovel on hand *"Get out of here you diabolic corpse raisers!"* ``Augur
+keeper, an old man. He has seen her and takes a shovel, then shouts at her,
+shovel on hand *"Get out of here you diabolic corpse raisers!"*. ``Augur
 results + develop, leader``
 
 > While I was playing this scene I realised that I forgot to roll in the Madari
@@ -125,13 +126,14 @@ this place and keeps on her journey. ``Roleplaying as a Coward``
 
 ``Orientation test: no milestone`` ``No surprise``
 
-Eldara is walking now through some farmland and some farm animals, as she is
-walking she finds the dead body of what looks like a noble woman. The woman has
-been dead a long time, and near her body there is a bow with a single iron
-arrow, maybe she was a hunter. *"This will sell for a fortune"* Eldara thinks. 
+Eldara is walking now through some farmland and sees some farm animals around,
+as she is walking she finds the dead body of what looks like a noble woman. The
+woman has been dead a long time, and near her body there is a bow with a single
+iron arrow, maybe she was a hunter. *"This will sell for a fortune"* Eldara
+thinks.
 
 Eldara spends some time digging a grave for the woman and then she buries the
-body, as she is eating a ration to rest and recover from the hard work of
+body, as she is eating a ration to rest and recover from the hard work that
 digging a grave is, she realises that the noble hunter had something to do with
 the place that she is searching, since the land begins to move and the noble
 woman rises.
@@ -161,9 +163,9 @@ Eldara has learned her lesson and doesn't try to bury the corpse again. She
 tears the sleeves from the hunter's shirt and uses the cloth to tie the
 corpse's hands and legs.
 
-She doesn't see anything that could help her discover about her mission, so she
-continues her journey, she uses some bandages to patch her wounds. ``+4HP``
-``First Aid check``
+She doesn't see anything that could help her discover anything about her
+mission, so she continues her journey, she uses some bandages to patch her
+wounds. ``+4HP`` ``First Aid check`` ``-1 bandage``
 
 > Eldara's very first First Aid check was a success!
 
@@ -193,15 +195,15 @@ being buried but she doesn't know about it; however, she tells her that she has
 seen people presumed dead come back to the living, this has happened while she
 was doing her job as a guide. ``Augur: no, but...`` 
 
-Eldara starts to think that this strange events are not happening due to
+Eldara starts to think that these strange events are not happening due to
 something, but someone. ``Augur: an assumption of the PC is wrong``
 
 The guide is not wearing or carrying anything strange, but she feels an eerie
 energy emanating from her clothes. ``Augur: no, but...`` ``Augur: energy``
 
-Eldara asks to the guide whether she has been around people lately, she
-nods. She has been the guide to an individual, but she hasn't been a guide of
-the nearby cave. ``Augur: yes, but``
+Eldara asks the guide whether she has been around people lately, she
+nods. She has been the guide to an individual, but she hasn't been a guide for
+the nearby cave (Obsidian Hollow cave). ``Augur: yes, but``
 
 Eldara asks whether she can give her the direction where she left this
 individual, and she shows it to her. ``Augur: yes`` 
