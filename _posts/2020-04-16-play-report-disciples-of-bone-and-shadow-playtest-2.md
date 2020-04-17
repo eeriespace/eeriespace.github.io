@@ -30,8 +30,8 @@ change.
   
   Other XP awarding feats are successfully casting a spell, disabling
   traps... this makes non-combat centred gameplay also very rewarding. I really
-  like this addition. 
-
+  like this addition.
+  
 ## Previously...
 
 Eldara was investigating some rumours about the dead coming back to life after
@@ -39,6 +39,15 @@ being buried, some people with strange energy emanating from their bodies and a
 cult possibly related to all these happenings.
 
 * Milestones: 0/4
+
+## Some clarifications
+
+The rules have a specific description of what a mission is, when I'm talking
+here about Eldara's *mission* or *goal*, it is not a 'rulebook mission'. It is
+just my way of expressing that 'Eldara has decided to do this'.
+
+Milestones are just a way of counting how much have you progressed in your
+journey and are not related to missions (rulebook mission).
 
 ## Part 2 of the adventure
 
@@ -140,6 +149,12 @@ She doesn't feel better, so she uses some magic to do this too. She casts
 *Cauterise* but fails, she has done something wrong ``+1 corruption``, she
 insists and this time the spell works ``+11HP`` ``+2XP``
 
+> **Edit:** The author has reminded me that you **can't** fail to cast a
+> spell. The roll that I was making was a resistance roll against corruption,
+> which I failed and that's why she gained corruption; the effects of the
+> spell, in this case a *Cauterise*, will still fully apply. 
+>
+> This is another great example of why I'm completely useless at healing.
 
 **2.** She goes back to the first triangular room, the one with the crystal,
 but some **Madarian Rats (Vermin)** cut her escape (there are three).
