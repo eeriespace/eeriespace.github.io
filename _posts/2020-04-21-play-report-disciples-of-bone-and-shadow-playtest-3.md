@@ -125,7 +125,7 @@ almost certain, and``
 
 The men are very happy to hear that, and they proceed to tell him the
 details. They want to hide this item in a nearby location, they need to check
-that the box would fit —they give him the measurements of the box, three robes
+that the box would fit —they give him the measurements of the box, three ropes
 to mark its length, height and width. They also need him to make sure that
 there are enough monsters nearby to force them to guard the item once they have
 hid it. They can't recall if this location was a cave or some ruins, but
