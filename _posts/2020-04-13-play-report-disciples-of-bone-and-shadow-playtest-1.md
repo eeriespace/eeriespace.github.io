@@ -95,7 +95,7 @@ clear destination. I get that my journey will have 4 important milestones.
 
 And we start!
 
-![](https://raw.githubusercontent.com/eeriespace/public-images/master/20200413-play-resport-disciples-narrative-playbook-playtest-1/disciples-narrative-playbook-playtest-1.png)
+![](https://raw.githubusercontent.com/eeriespace/public-images/master/20200413-play-report-disciples-narrative-playbook-playtest-1/disciples-narrative-playbook-playtest-1.png)
 <p align="center"><small>Hexes of the Madari region explored so far</small></p>
 > This map has been made using [Hex Kit](https://cone.itch.io/hex-kit), this is
 > my first time using it, but I made it work.
