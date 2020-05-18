@@ -2,7 +2,7 @@
 layout: post
 title: "Disciples of Bone and Shadow's Narrative Playbook playtest #3"
 category: "Play report"
-description: "Test run #3 of the upcoming Disciples of Bone and Shadow
+description: "Kiur's story (Part 1) - Playtest #3 of Disciples of Bone and Shadow's
 expansion, the Narrative Playbook"
 tags: [Disciples of Bone and Shadow]
 imghtml: https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1585678108519-CBRGYYCRJZ2V9G0HYDTI/ke17ZwdGBToddI8pDm48kFBffkseagYn7mI_lqGhucB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua0lhRhdc7zM0rdkFZwl4rm_EydcEib8z0GPZ_xcr7vEj98zSYky2TCTwUpJT7udpA/image-asset.jpeg?format=750w
@@ -167,7 +167,7 @@ so, he continues his journey without resting.
 
 ``+2XP`` ``Not in control of the situation (-1)``
 
-## Hex #19, Akkar Strand region
+### Hex #19, Akkar Strand region
 
 ``Orientation test: no milestone`` ``Surprise!`` ``Description: escort,
 subject: friendship`` ``Weather: 6, heavy rain`` ``Slow pace``
@@ -189,14 +189,14 @@ anything to do with the men in the settlement. After all, he only got the
 mission because the job was delayed, but they didn't mention why.
 
 ``Does he know the man with his friend? Almost certain`` ``Is he a traitor?
-Ulikely`` He knows the man, but he is not sure if he was with the traitors that
+Unlikely`` He knows the man, but he is not sure if he was with the traitors that
 killed his grandpa. He silently walks away from them, he will investigate those
 two when he is done with the mission.
 
 He keeps waling, his movements slower than usual due to the rain, he stops to
 rest for the day. ``-1 ration`` ``In control of the situation (0)``
 
-<hr>
+~~
 
 ``No surprise`` ``Weather: 6 heavy rain``
 
@@ -204,7 +204,7 @@ He continues his journey through the ruins, the weather is still awful.
 
 ``-1 ration`` ``+2XP``
 
-## Hex #36, Akkar Strand region
+### Hex #36, Akkar Strand region
 
 ``Orientation test: no milestone`` ``Surprise`` ``Description: alert, theme: guide``
 ``Weather: 9, heavy snowfall``
@@ -271,9 +271,12 @@ He rests for the day.
 
 ``-1 ration`` ``In control of the situation (1)``
 
-<hr>
+~~
 
 ``No surprise`` ``Weather: 7, hail``
 
 The heavy snowfall transforms into a more annoying weather: a lot of hail. He
 continues his journey and then rests for the day. ``-1 ration`` ``+2XP``
+
+
+
