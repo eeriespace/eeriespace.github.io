@@ -20,6 +20,7 @@ In alphabetical order (also, in progress):
 * [The Lizard Man Diaries](https://lizardmandiaries.blogspot.com/)
 * [Neural Archive](https://neuralarchive.blogspot.com/)
 * [No One To Play With](https://noonetoplay.blogspot.com/)
+* [Paths Peculiar](https://www.wistedt.net/)
 * [Save vs Dragon](https://savevsdragon.blogspot.com/)
 * [Save vs Total Party Kill](http://save.vs.totalpartykill.ca/)
 * [Throne of Salt](https://throneofsalt.blogspot.com/)

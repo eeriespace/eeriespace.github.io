@@ -8,6 +8,8 @@ tags: [Disciples of Bone and Shadow]
 imghtml: https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1585678108519-CBRGYYCRJZ2V9G0HYDTI/ke17ZwdGBToddI8pDm48kFBffkseagYn7mI_lqGhucB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua0lhRhdc7zM0rdkFZwl4rm_EydcEib8z0GPZ_xcr7vEj98zSYky2TCTwUpJT7udpA/image-asset.jpeg?format=750w
 ---
 
+<p align="center"><img src="https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1585678108519-CBRGYYCRJZ2V9G0HYDTI/ke17ZwdGBToddI8pDm48kFBffkseagYn7mI_lqGhucB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua0lhRhdc7zM0rdkFZwl4rm_EydcEib8z0GPZ_xcr7vEj98zSYky2TCTwUpJT7udpA/image-asset.jpeg?format=750w"></p>
+
 This is the third play report (links to the [first
 one]({{site.baseurl}}/2020/04/13/play-report-disciples-of-bone-and-shadow-playtest-1/)
 and [second
@@ -16,6 +18,13 @@ of my playtest campaign of the upcoming **Narrative playbook for [Disciples of
 Bone and Shadow](https://blackoathgames.com/disciples-of-bone-shadow)**, you
 can read more about this book in the [official
 announcement](https://blackoathgames.com/news). 
+
+Other entries of this playtest: [part
+1]({{site.baseurl}}/2020/04/13/play-report-disciples-of-bone-and-shadow-playtest-1/), 
+[part
+2]({{site.baseurl}}/2020/04/16/play-report-disciples-of-bone-and-shadow-playtest-2/),
+[part 4]({{site.baseurl}}/2020/07/13/play-report-disciples-of-bone-and-shadow-playtest-4/).
+
 
 **Please note:** this report uses a work-in-progress book that the author is
 improving, enhancing and changing everyday, thereby everything is subject to

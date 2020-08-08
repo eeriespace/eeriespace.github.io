@@ -26,7 +26,8 @@ Solo RPG campaigns that I'm running:
   [5 &
   6]({{site.baseurl}}/2020/03/26/play-report-the-sinister-industrial-complex/),
   [7-14]({{site.baseurl}}/2020/03/27/play-report-more-than-a-week-of-magic-ritual-training/),
-  [15-17]({{site.baseurl}}/2020/03/28/play-report-capture-the-thief-of-the-resurrection-gem/).
+  [15-17]({{site.baseurl}}/2020/03/28/play-report-capture-the-thief-of-the-resurrection-gem/),
+  [18-23]({{site.baseurl}}/2020/08/08/play-report-consecration-rituals-and-rescue-great-institute-of-cooking/).
 * Unnamed campaign with
   **[Mothership](http://www.tuesdayknightgames.com/mothership)**.
   * Sessions:

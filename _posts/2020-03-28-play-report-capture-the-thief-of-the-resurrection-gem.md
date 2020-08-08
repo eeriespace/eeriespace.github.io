@@ -134,7 +134,7 @@ mission.
 
 Paek is a bit uncomfortable telling her the situation, an ex-member of the
 Order has stolen the Gem of Resurrection, a mythical relic property of the
-Siddha for centuries that aids them trying to recover lost souls though
+Siddha for centuries that aids them trying to recover lost souls through
 meditation. Lana knew that this hard to meet Order had rather surprising
 occultists among their ranks, but this is very intriguing. Paek wants her to
 recover the Gem of Resurrection finding the thief, which the Order had located
