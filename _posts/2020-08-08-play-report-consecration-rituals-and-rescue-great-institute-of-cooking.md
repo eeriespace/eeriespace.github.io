@@ -162,7 +162,7 @@ she says, then leaves. ``Event: who are you?``
 ### Lobby
 
 A **Golem** is slowly guarding the Lobby, a big and tall construct that has
-flat feett.
+flat feet.
 
 > I will always imagine golems as they were depicted in the [Dragon Quest
 > videogames](https://dragonquest.fandom.com/wiki/Golem).
