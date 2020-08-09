@@ -77,7 +77,7 @@ On my queue:
 I'm waiting for...
 
 * [Ultraviolet
-  Grasslands](https://www.drivethrurpg.com/product/302021/Ultraviolet-Grasslands-and-the-Black-City?affiliate_id=1914894),
+  Grasslands](https://www.exaltedfuneral.com/products/the-ultra-violet-grasslands-and-the-black-city?_pos=1&_sid=d75268253&_ss=r),
   preordered, on its way.
 * [Beak, Feather &
   Bone](https://www.drivethrurpg.com/product/311602/Beak-Feather--Bone?affiliate_id=1914894)
