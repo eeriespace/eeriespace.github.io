@@ -22,18 +22,21 @@ Solo RPG campaigns that I'm running:
 * Unnamed campaign with
   **[Mothership](https://www.drivethrurpg.com/product/245017/Mothership-Players-Survival-Guide?affiliate_id=1914894)**.
   * Sessions:
-    [1]({{site.baseurl}}/2020/02/29/play-report-faust-cherubim-king-10-704/), [2]({{site.baseurl}}/2020/03/29/play-report-mothership-frozen-dreams/)
+    [1]({{site.baseurl}}/2020/02/29/play-report-faust-cherubim-king-10-704/),
+    [2]({{site.baseurl}}/2020/03/29/play-report-mothership-frozen-dreams/)
 
 * *Adventures in the Whiteteeth Peninsula* with the upcoming **[Disciples of Bone
   and
   Shadow](https://www.drivethrurpg.com/product/278377/Disciples-of-Bone--Shadow?affiliate_id=1914894)
-  Narrative Playbook** (playtesting). 
+  Narrative Playbook** (actual plays from the playtesting). 
   * Eldara's adventures: [part
     1]({{site.baseurl}}/2020/04/13/play-report-disciples-of-bone-and-shadow-playtest-1/),
     [part 2]({{site.baseurl}}/2020/04/16/play-report-disciples-of-bone-and-shadow-playtest-2/). RIP
   * Kiur's adventures: [part
     3]({{site.baseurl}}/2020/04/21/play-report-disciples-of-bone-and-shadow-playtest-3/),
-    [part 4]({{site.baseurl}}/2020/07/13/play-report-disciples-of-bone-and-shadow-playtest-4/)
+    [part
+    4]({{site.baseurl}}/2020/07/13/play-report-disciples-of-bone-and-shadow-playtest-4/)
+    (I have to update these)
 
 * Unnamed hexcrawl campaign with **[Labyrinth
   Lord](https://www.drivethrurpg.com/product/78524/Advanced-Edition-Companion-Labyrinth-Lord-noart-version)**
@@ -79,8 +82,7 @@ I'm waiting for...
 * [Ultraviolet
   Grasslands](https://www.exaltedfuneral.com/products/the-ultra-violet-grasslands-and-the-black-city?_pos=1&_sid=d75268253&_ss=r),
   preordered, on its way.
-* [Beak, Feather &
-  Bone](https://www.drivethrurpg.com/product/311602/Beak-Feather--Bone?affiliate_id=1914894)
+* [Beak, Feather & Bone](https://www.drivethrurpg.com/product/311602/Beak-Feather--Bone?affiliate_id=1914894)
   in transit until the Random God knows when due to USPS.
 * [Never Going
    Home](https://www.drivethrurpg.com/product/283637/Never-Going-Home?affiliate_id=1914894)
@@ -93,3 +95,13 @@ What I would like to try in the future:
 * [Ironsworn:
   Starforged](https://www.ironswornrpg.com/starforge-preview-july-2019), the
   upcoming Ironsworn book in space! 
+* [Hope](https://www.drivethrurpg.com/product/232710/Hope?affiliate_id=1914894)
+
+
+<hr>
+
+**Note:** these are all
+[DriveThruRPG](https://www.drivethrurpg.com/index.php?affiliate_id=1914894)
+affiliate links and normal links to [Exalted
+Funeral](https://www.exaltedfuneral.com/) 
+:metal: 
