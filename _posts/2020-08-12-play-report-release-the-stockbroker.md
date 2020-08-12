@@ -36,10 +36,11 @@ The shop's of the Omphalos are on sale again and Lana buys her usual stuff:
 bandages and *frankincenses*; as she is exiting the pharmacy she perceives a
 suspicious person trying to blend in, they aren't doing it well enough,
 everybody else is on high spirits due to the sale and is carrying a lot of
-goods, they have a gloomy face and they're empty handed. Lana decides to alert
-the guards and they take the suspicious person for questioning.  ``Event: lower
-prices!`` ``Encounter: suspicious figure``
-``+50 favour with all orders`` ``Antagonist: Sons of Yaldaboth``
+goods, whereas they have a gloomy face and they're empty handed. Lana decides
+to alert the guards and they take the suspicious person for questioning.
+``Event: lower prices!`` ``Encounter: suspicious figure``
+``+50 favour with all orders``
+``Antagonist: True Sons of Yaldabaoth``
 
 > Lana's antagonist list has added a new member, we are now hated by: the
 > Covenant of the Glorious Dawn, the Cult of the Dying Sun, and this new cult.
@@ -155,7 +156,7 @@ She enters the first hallway, it is silent.
 
 As she turns in the corner to take the second hallway, she sees a **Street
 Tough** walking towards her. The tough seems to be carrying stolen goods and
-fears that Lana would take them from her ``NPC reaction hostile``
+fears that Lana would take them from her. ``NPC reaction hostile``
 
 Lana prepares for combat, she takes a couple of hits but she is able to
 neutralise the woman. ``-30HP`` Lana takes a knife and a glock from the corpse,
@@ -212,8 +213,8 @@ The woman is not in this hallway.
 ### Office 2 - Ground floor
 
 There is **a man wearing gym clothes** in this room slowly but steadily
-flexing his biceps, he is hostile. ``NPC flavour: always wins initiative, +5
-defence`` ``Gym manager: brass knuckles, glock 17, energy drink``
+flexing his biceps, he is hostile. ``NPC flavour: always wins initiative`` ``+5
+defence`` ``Equipment: brass knuckles, glock, energy drink``
 
 Lana is pissed off by the man's attitude, so she decides that she will fight
 him. She parries the gym guy's attacks, manages to score critical hits which
@@ -230,7 +231,7 @@ treatise*!
 ``Event: who are you?``
 
 She looks around the office, it is very dark, they, whoever *they* are have
-performed a very dark ritual here, Lana can feel it in her bones and it is very
+performed a very dark ritual here, Lana can feel it in her bones and gets very
 scared.  ``WIL test fail`` ``-7 sanity maximum``
 ``Discovery: fear manifest`` 
 
@@ -255,8 +256,9 @@ her consideration. ``NPC friendly``
 > Great! This is my second warding chalk!
 
 There is another person in the room, Lana hadn't realised until now due to the
-thick dust floating around. ``NPC friendly`` ``NPC flavour: woman, naive,
-truth, failed politician`` 
+thick dust floating around. ``NPC friendly`` ``NPC flavour: failed politician`` 
+
+> I don't roll everything on the NPC tables.
 
 She is a woman with a confident pose, Lana thinks that surprisingly she knows
 her from somewhere, but she is unable to place her. '*Yes, I ran in the London
@@ -290,6 +292,9 @@ These hallways are empty, Lana heads to the recreation room.
 A **Golem** has been stuffed into this small recreation room, it attacks Lana
 on first sight and she focuses on evading the attacks and trying to escape, she
 manages to get away.
+
+> I've been encountering a lot of Golems in the latest missions, I clearly
+> prefer them over Chimeras.
 
 There is a pile of books in a corner near the entrance, Lana takes a closer
 look and finds a *Grimoire* among classic literature books.
@@ -335,7 +340,7 @@ Lana fights the man, a **Hunter**, to rescue the woman. The fight is long, but
 Lana is holding on well and parries most of the attacks, the brass knuckles
 that she got from the gym manager in the ground floor pack a strong punch and
 the hunter curses at every punch that Lana lands. After a long fight the hunter
-falls to the ground, dead.
+falls to the ground, dead. ``Event: interrogation``
 
 > I thought that it would be thematic to check if this woman was Katriin (the
 > target) so I decided to roll check the search goal now rather than at the end
