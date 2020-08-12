@@ -17,13 +17,14 @@ Solo RPG campaigns that I'm running:
   [7-14]({{site.baseurl}}/2020/03/27/play-report-more-than-a-week-of-magic-ritual-training/),
   [15-17]({{site.baseurl}}/2020/03/28/play-report-capture-the-thief-of-the-resurrection-gem/),
   [18-23]({{site.baseurl}}/2020/08/08/play-report-consecration-rituals-and-rescue-great-institute-of-cooking/),
-  [24]({{site.baseurl}}/2020/08/09/play-report-eye-for-an-eye-assassination-for-the-causa-scientiae/)
+  [24]({{site.baseurl}}/2020/08/09/play-report-eye-for-an-eye-assassination-for-the-causa-scientiae/),
+  [25-28]({{site.baseurl}}/2020/08/12/play-report-release-the-stockbroker/)
 
 * Unnamed campaign with
   **[Mothership](https://www.drivethrurpg.com/product/245017/Mothership-Players-Survival-Guide?affiliate_id=1914894)**.
   * Sessions:
     [1]({{site.baseurl}}/2020/02/29/play-report-faust-cherubim-king-10-704/),
-    [2]({{site.baseurl}}/2020/03/29/play-report-mothership-frozen-dreams/)
+    [2]({{site.baseurl}}/2020/03/30/play-report-mothership-frozen-dreams/)
 
 * *Adventures in the Whiteteeth Peninsula* with the upcoming **[Disciples of Bone
   and
@@ -84,10 +85,6 @@ I'm waiting for...
   preordered, on its way.
 * [Beak, Feather & Bone](https://www.drivethrurpg.com/product/311602/Beak-Feather--Bone?affiliate_id=1914894)
   in transit until the Random God knows when due to USPS.
-* [Never Going
-   Home](https://www.drivethrurpg.com/product/283637/Never-Going-Home?affiliate_id=1914894)
-   preordered (in Spanish), on its way. I don't own any RPG books in Spanish
-   (well, a Pathfinder core book), but this one was cheaper this way.
   
 What I would like to try in the future:
 
@@ -96,7 +93,8 @@ What I would like to try in the future:
   Starforged](https://www.ironswornrpg.com/starforge-preview-july-2019), the
   upcoming Ironsworn book in space! 
 * [Hope](https://www.drivethrurpg.com/product/232710/Hope?affiliate_id=1914894)
-
+* [Never Going
+   Home](https://www.drivethrurpg.com/product/283637/Never-Going-Home?affiliate_id=1914894)
 
 <hr>
 
