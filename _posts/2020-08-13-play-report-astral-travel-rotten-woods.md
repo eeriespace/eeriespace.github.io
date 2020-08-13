@@ -70,7 +70,7 @@ Annabella hands her a *Potion of Astral Travel* and accompanies her to their
 meditation room. Lana tries to enter the astral by meditation, but she fails,
 so she takes the potion. ``Meditation check fail``
 
-> I don't know if this is legal
+> I don't know if this is legal (Edit: it is)
 
 ## In the Astral: The Rotten Woods
 
@@ -117,7 +117,7 @@ Spirit and finally drives it off.  ``Stage: enemy``
 ``Path options: event``
 
 The forest turns black and the darkness surrounds her. ``-10 combat skills``
-``Event: darkness surounds you``
+``Event: darkness surrounds you``
 
 > We are doomed in the next combat. Definitely.
 
@@ -170,8 +170,9 @@ headscarf.
 Lana wanders along the streets of a red city, good memories accompany
 her. ``Ignore next sanity lost`` ``Discovery: good memory``
 
-> I have this magic relic that absorbs up to 200 sanity lost so was already
-> good on that point, but if I can make the relic last longer better for me.
+> I have this magic relic that absorbs up to 200 sanity lost so Lana was
+> already good enough on that point, but if I can make the relic last longer
+> better for me. 
 
 ### Stage 9
 

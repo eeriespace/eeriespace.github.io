@@ -30,7 +30,7 @@ and [15th to
 ## Thursday, full moon - Day 18 at the Omphalos
 
 There is a vibrant and overpowering atmosphere arriving at the Omphalos that
-infuses everyone with fresh power. ``+100VP free to use`` ``Event: tapping a key line``
+infuses everyone with fresh power. ``+100VP free to use`` ``Event: tapping a ley line``
 
 > This could be an interesting event to have in the future, now I can't use
 > those extra *vril* points for anything...
