@@ -255,6 +255,11 @@ dead. ``Persuasion check OK!!``
 
 ## Mission recap
 
+> Things that I did wrong: on page 98 of the rulebook it says that you recover
+> 25% of your max SP every 5 stages.
+>
+> So I kinda went hardcore without wanting to in this mission
+
 * +10 order points
 * +150 favour with the Kadmonites
 * 500ø
