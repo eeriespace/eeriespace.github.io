@@ -247,7 +247,7 @@ Nothing on this hallway as she exits the previous office.
 ### Office 1 - Ground floor
 
 There is a tall woman, an **Oshira Agent**, searching for something among all
-the boxed scattered through this office, there is a lot of dust in the
+the boxes scattered through this office, there is a lot of dust in the
 environment, she must have been here for quite a while. She looks at Lana, then
 says *'I've found this, and I have already a lot of these, so you might find it
 useful.'* she handles a *Warding chalk* to Lana. She thanks the tall woman for
@@ -343,7 +343,7 @@ the hunter curses at every punch that Lana lands. After a long fight the hunter
 falls to the ground, dead. ``Event: interrogation``
 
 > I thought that it would be thematic to check if this woman was Katriin (the
-> target) so I decided to roll check the search goal now rather than at the end
+> target) so I decided to check the search goal now rather than at the end
 > of the discoveries phase.
 
 Lana releases the woman, she starts coughing, Lana asks her *'You're okay now,

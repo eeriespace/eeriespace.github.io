@@ -10,8 +10,9 @@ imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200
 ---
 
 This play report is the first session of my
-[Mothership RPG](http://www.tuesdayknightgames.com/mothership) solo campaign,
-where I build the space station that will serve as a base for the characters.
+**[Mothership RPG](http://www.tuesdayknightgames.com/mothership)** solo
+campaign, where I build the space station that will serve as a base for the
+characters.
 
 The campaign started more than a year ago, so I might have forgotten how I made
 some things, but I have the majority of them documented. 

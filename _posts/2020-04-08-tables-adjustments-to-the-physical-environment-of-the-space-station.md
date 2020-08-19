@@ -5,7 +5,11 @@ category: "Resources"
 description: "A table of dangerous changes to space station's physical
  environment for Mothership RPG"
 tags: [Mothership, Tables]
+imghtml: https://cf.geekdo-images.com/imagepage/img/mkQdlYoRRdfEFxY5CzvHGkTxJ5w=/fit-in/900x600/filters:no_upscale()/pic4181868.png
 ---
+
+<p align="center"><img src="https://cf.geekdo-images.com/imagepage/img/mkQdlYoRRdfEFxY5CzvHGkTxJ5w=/fit-in/900x600/filters:no_upscale()/pic4181868.png"></p>
+
 
 I usually use **Scarlet Heroes'** oracles during my solo plays to know the
 results of a scene. This oracle is the traditional *Yes/No/Yes but/No but*

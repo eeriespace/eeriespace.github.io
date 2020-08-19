@@ -9,8 +9,8 @@ imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200
 ---
 
 This play report is the second session of my
-[Mothership RPG](http://www.tuesdayknightgames.com/mothership) solo campaign,
-where my main character and their background is introduced.
+**[Mothership RPG](http://www.tuesdayknightgames.com/mothership)** solo
+campaign, where my main character and their background is introduced.
 
 You can read previous sessions here:
 [1st]({{site.baseurl}}/2020/02/29/play-report-faust-cherubim-king-10-704/).

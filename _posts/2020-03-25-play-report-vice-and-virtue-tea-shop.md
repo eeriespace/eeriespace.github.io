@@ -8,6 +8,9 @@ tags: ["Seekers Beyond the Shroud"]
 imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200324-play-report-vice-and-virtue-tea-shop/map-vice-and-virtue-tea-shop.jpg
 ---
 
+<p align="center"><img src="https://cf.geekdo-images.com/imagepage/img/vCCTcQIpUI_zUrLlI1rmMlF5a8M=/fit-in/900x600/filters:no_upscale()/pic5149175.jpg"></p>
+
+
 Play report of the fourth session of *Lana Vanne's ascension to the occult*
 campaign using [Seekers Beyond The
 Shroud](https://blackoathgames.com/seekers-beyond-the-shroud).

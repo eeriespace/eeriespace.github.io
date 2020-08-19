@@ -151,7 +151,7 @@ Ochuka**, that is currently being held against his will in a nearby museum, the
 
 ### Entry Hall
 
-There is a elderly woman sitting on a chair passed the entrance, she sees her
+There is an elderly woman sitting on a chair passed the entrance, she sees her
 and says: *'I didn't know that the museum was taking visitors, we are
 undergoing renovations, but well you know.. times are tough and we need to
 make a living'* she approaches her and gives Lana 52ø, *'go rescue my friend'*

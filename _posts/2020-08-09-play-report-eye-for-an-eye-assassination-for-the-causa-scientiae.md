@@ -103,11 +103,11 @@ one (G2)</small></p>
 
 ### Entrance - Ground floor
 
-A **Vesel** is looking the furniture in the entrance, Lana prepares herself to
+A **Vessel** is looking the furniture in the entrance, Lana prepares herself to
 fight but they enigmatically smile at her and give her a book. Then they
 leave. ``NPC reaction friendly`` ``Magic relic: The Wheiley Diary``
 
-> What! This relic is huge. Apparently it han absorb up to 200 points of sanity
+> What! This relic is huge. Apparently it can absorb up to 200 points of sanity
 > lost!!! Woa, this is really great. By the way, Lana lost -7 sanity in the
 > last mission so I need to check when I can meditate again, she will recover
 > sanity after a week without sanity lost, which now it is guaranteed since I
@@ -116,7 +116,7 @@ leave. ``NPC reaction friendly`` ``Magic relic: The Wheiley Diary``
 
 ### Kitchen - Ground floor
 
-Lana arrives in the kitchen an looks around, her target is not here, she
+Lana arrives in the kitchen and looks around, her target is not here, she
 accidentally scrapes her hand with the edge of a chair... the chair doesn't
 look very clean. ``Event: infected wounds`` ``Healing reduced by 50%``
 

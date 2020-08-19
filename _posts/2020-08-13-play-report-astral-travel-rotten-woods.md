@@ -81,7 +81,7 @@ so she takes the potion. ``Meditation check fail``
 
 ### Stage 1
 
-Lana wakes up in an eerie forest, the leaves on trucks of the trees are
+Lana wakes up in an eerie forest, the leaves and trucks of the trees are
 rotting, everything smells of decay. It's her first time here but she thinks
 that it is beautiful.
 
@@ -93,7 +93,7 @@ has evil intentions.
 
 Lana deploys a barrier using her Psychic defence and uses bursts of energy with
 her Psychic offence to try to drive the spirit back. Even if she is doing great
-for her first combat and her first time in the astral the spirit is very
+for her first combat and her first time in the astral, the spirit is very
 sturdy, the battle prolongs, its now a matter of resilience. Lana is very badly
 injured, her barrier wasn't strong enough to stop five attacks (``-18, -28,
 -21, -30, -11``), but slowly and steadily she scores hit after hit to the

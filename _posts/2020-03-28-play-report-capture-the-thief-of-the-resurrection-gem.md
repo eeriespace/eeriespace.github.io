@@ -9,6 +9,9 @@ tags: ["Seekers Beyond the Shroud"]
 imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200328-play-report-capture-the-thief-of-the-resurrection-gem/natural-history-museum.jpg
 ---
 
+<p align="center"><img src="https://cf.geekdo-images.com/imagepage/img/vCCTcQIpUI_zUrLlI1rmMlF5a8M=/fit-in/900x600/filters:no_upscale()/pic5149175.jpg"></p>
+
+
 Play report of the 15th through 17th sessions of *Lana Vanne's ascension to the
 occult* campaign using [Seekers Beyond The
 Shroud](https://blackoathgames.com/seekers-beyond-the-shroud).

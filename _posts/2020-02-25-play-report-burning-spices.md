@@ -8,6 +8,8 @@ tags: [Seekers Beyond the Shroud]
 imghtml: https://raw.githubusercontent.com/eeriespace/public-images/1fdbe5a32685f3eec21afd91561644e2e1fbcd86/20200225-play-report-burning-spices/map-burning-spices-limited.01.jpg
 ---
 
+<p align="center"><img src="https://cf.geekdo-images.com/imagepage/img/vCCTcQIpUI_zUrLlI1rmMlF5a8M=/fit-in/900x600/filters:no_upscale()/pic5149175.jpg"></p>
+
 Play report of *Lana Vanne's ascension to the occult* campaign using [Seekers
 Beyond The Shroud](https://blackoathgames.com/seekers-beyond-the-shroud).
 
