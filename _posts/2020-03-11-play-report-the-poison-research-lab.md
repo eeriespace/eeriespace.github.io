@@ -272,7 +272,7 @@ again and succeeds, the two women leave the yokai behind.
 
 ### Room 2 - Ground floor
 
-Nothing appears on this room.
+Nothing appears in this room.
 
 ### Hallway 2 - Ground floor
 

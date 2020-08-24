@@ -2,8 +2,8 @@
 layout: post
 title: "Recover the Jar of Devotion from the sect's covert base"
 category: "Play report"
-description: "It is the time to try astral travel to make a spirit pact with a
-Vestige (Seekers Beyond the Shroud)"
+description: "Lana has a very busy week and she is tasked with recovering an
+ancient artifact very valuable to the Siddha (Seekers Beyond the Shroud)"
 tags: ["Seekers Beyond the Shroud"]
 imghtml: https://cf.geekdo-images.com/imagepage/img/vCCTcQIpUI_zUrLlI1rmMlF5a8M=/fit-in/900x600/filters:no_upscale()/pic5149175.jpg
 ---

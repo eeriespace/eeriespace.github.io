@@ -242,7 +242,7 @@ then tries to patch her wounds, but there is no point.
 
 ### Hallway 3 - Ground floor
 
-Nothing on this hallway as she exits the previous office.
+Nothing in this hallway as she exits the previous office.
 
 ### Office 1 - Ground floor
 
