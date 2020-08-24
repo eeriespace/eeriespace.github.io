@@ -19,7 +19,8 @@ Solo RPG campaigns that I'm running:
   [18-23]({{site.baseurl}}/2020/08/08/play-report-consecration-rituals-and-rescue-great-institute-of-cooking/),
   [24]({{site.baseurl}}/2020/08/09/play-report-eye-for-an-eye-assassination-for-the-causa-scientiae/),
   [25-28]({{site.baseurl}}/2020/08/12/play-report-release-the-stockbroker/),
-  [29]({{site.baseurl}}/2020/08/13/play-report-astral-travel-rotten-woods/)
+  [29]({{site.baseurl}}/2020/08/13/play-report-astral-travel-rotten-woods/),
+  [30-38]({{site.baseurl}}/2020/08/24/play-report-recover-jar-devotion/)
 
 * Unnamed campaign with
   **[Mothership](https://www.drivethrurpg.com/product/245017/Mothership-Players-Survival-Guide?affiliate_id=1914894)**.
