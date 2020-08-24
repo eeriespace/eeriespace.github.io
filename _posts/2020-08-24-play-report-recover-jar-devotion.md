@@ -50,7 +50,7 @@ aaaaand... fails. ``Magic liturgy check fail``
 
 ## Wednesday, first quarter - Day 31 at the Omphalos
 
-There prices are higher than usual today, *'It makes sense'* Lana thinks
+Prices are higher than usual today, *'It makes sense'* Lana thinks
 *'Yesterday everybody was performing rituals so maybe they are low on stock
 now*'. As Lana heads to the ritual camber, she sees her *acquaintance* again,
 he is back asking for consecrated *athames*. Lana thinks that she will try to
@@ -136,7 +136,7 @@ costs. ``Event: bad blood``
 
 As Lana enters the Omphalos she is welcomed by a shocking scene. **Cecil**, her
 friend from the Causa Scientiae order, is holding **Keith** in her arms,
-another member from the order, she is trembling and sobbing, Keith is badly
+another member from the order; she is trembling and sobbing, Keith is badly
 injured, something seems to have gone very wrong in their last mission, he
 needs a doctor, *'There is no time!*' Cecil cries, *'I... I couldn't protect
 him... they were all over us and I couldn't...'* Lana holds Cecil's hand, *'I
@@ -156,14 +156,14 @@ ARRIVES!! ``First aid check OK`` Cecil cries more profusely and hugs Lana *'I
 was ready for the worst'*, then continues crying like a baby *'... me too'*
 Lana says bewildered.
 
-Keith reaches onto his backpack, still bleeding, but stable, he gives Lana an
+Keith reaches his backpack, still bleeding, but stable, he gives Lana an
 *Alchemical treatise*, he doesn't say anything, just nods, and Lana does the
 same, she is still taken aback by this heroic feat that she has just
 accomplished. ``Event: wounded``
 
 > This event is so funny. It is one of my favourites, it causes so much drama.
 
-After the thins have calmed down a little bit Cecil gives Lana an artefact, it
+After the things have calmed down a little bit Cecil gives Lana an artefact, it
 is something that they've recovered in this ominous mission. It is a small
 pyramid shaped rock-thing, it looks sturdy but it is very light. Lana wonders
 that could it be, she doesn't know exactly what it is but she recalls having
@@ -180,9 +180,9 @@ liturgy check fail``
 ## Tuesday, third quarter - Day 37 at the Omphalos
 
 Lana has woken up late today and is rushing to the Omphalos, she has also taken
-all the shortcuts that she knows of, she needs to walk through that piss
+all the shortcuts that she knows of, she needs to go through that piss
 smelling narrow alley that she always avoids, but she is running late today. As
-she walks through a man blocks her path, he looks gloomy and dangerous, he
+she goes through a man blocks her path, he looks gloomy and dangerous, he
 could be an **Ichorite**; she can confirm that he is dangerous as he points his
 ritual dagger towards her.
 
