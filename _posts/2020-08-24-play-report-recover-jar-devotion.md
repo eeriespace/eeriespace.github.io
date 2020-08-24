@@ -189,7 +189,7 @@ ritual dagger towards her.
 > I'm using a work-in-progress of the *Making combat faster* rules (see the
 > Blackoath Discord).
 
-Combat is indeed faster and the man falls down death to the pissy alley. Lana
+Combat is indeed faster and the man drops down dead to the pissy alley. Lana
 takes his *ritual dagger*, he has also a handwritten letter, it looks like
 poetry, she thinks that she shouldn't read it, so she leaves it where it
 was. ``Event: attack``
@@ -198,7 +198,7 @@ Lana finally arrives at the Omphalos and someone recognises the the *ritual
 dagger* that she is carrying. They start whispering and finally a man comes
 closer, *'What have you done with the owner of that dagger?'* he
 demands. *'Well, he has kicked the bucket, he tried to attack me in a pissy
-alley'* Lana says. The man's face turns red with angers and he punches Lana in
+alley'* Lana says. The man's face turns red with anger and he punches Lana in
 the face. She doesn't see it coming. Everything becomes blurry but she wakes up
 shortly, a pitched battle is going on, she is not sure which are the sides
 anymore. Her nose is bleeding. ``-20HP`` ``Encounter: fight``
@@ -206,7 +206,7 @@ anymore. Her nose is bleeding. ``-20HP`` ``Encounter: fight``
 > Yep, I rolled a 20 on a d20. Such a violent day.
 
 She stands up and quickly goes to sell that damn dagger, it has caused her so
-much problems already. ``+100ø`` ``Appraisal check fail``
+much problems so far. ``+100ø`` ``Appraisal check fail``
 
 She then goes to seek shelter in a ritual chamber, she rents it for the
 remaining of the day and continues her ritual training routine. She tries a
@@ -225,7 +225,7 @@ Ezra, the Mind Mender is back, she hasn't seen him in a long time, she needs to
 recover some sanity, but is not too bad, she doesn't need asistance. 
 ``Event: hectic day (inside info + Ezra)``
 
-As she is walking to the Hall of the Orders she crosses path with **Keith**,
+As she is walking to the Hall of the Orders she crosses paths with **Keith**,
 who is almost completely recovered from his latest near-death
 experience. Although Lana has never imagined that he would be kissing her ass
 or treating her nicer since they both agree on that they don't like each
@@ -337,7 +337,7 @@ More nothing.
 
 ### Lobby
 
-Lana returns her steps and enters the lobby, there is another **Guard** walking
+Lana retraces her steps and enters the lobby, there is another **Guard** walking
 in circles, he ignores her. ``NPC: indifferent``
 
 As she is walking towards the next hallway she hears some voices closing by,
@@ -391,7 +391,7 @@ She takes some time to patch her wounds. ``First aid check OK`` ``+28HP``
 ### Exhibit hall 3
 
 As Lana enters this new exhibit hall she feels pressure on all her body, she
-manages to hold her sudden urge to throw out, but the the unpleasant sensation
+manages to hold her sudden urge to throw up, but the the unpleasant sensation
 goes on. ``WILL test fail`` ``-5 sanity nullified by the Gem of Lucidity``
 ``-5HP``
 
