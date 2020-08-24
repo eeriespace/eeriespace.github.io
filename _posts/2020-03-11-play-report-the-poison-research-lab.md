@@ -276,7 +276,7 @@ Nothing appears on this room.
 
 ### Hallway 2 - Ground floor
 
-After going through the room with the strongbox the women arrive to the long
+After going through the room with the strongbox the women arrive at the long
 hallway that makes a turn to the entrance. A **Orisha agent** crosses their
 path, but they keep their cool and continue walking. ``NPC reaction: ignore`` 
 

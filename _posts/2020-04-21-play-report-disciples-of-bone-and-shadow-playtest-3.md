@@ -150,7 +150,7 @@ so many that the place will remain unguarded afterwards.
 Lastly, the men give him some directions about the meeting point and the
 location that he needs to scout. ``Undertaking a journey: 3 milestones``
 
-> So, at the third milestone we will arrive to this place and join the
+> So, at the third milestone we will arrive at this place and join the
 > sellsword.
 
 ### Hex #2, Akkar Strand region
