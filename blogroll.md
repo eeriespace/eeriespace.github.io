@@ -25,3 +25,4 @@ In alphabetical order (also, in progress):
 * [Save vs Total Party Kill](http://save.vs.totalpartykill.ca/)
 * [Throne of Salt](https://throneofsalt.blogspot.com/)
 * [Traaash](https://www.traaa.sh/)
+* [Vaults of Vaarn](https://vaultsofvaarn.wordpress.com/)
