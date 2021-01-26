@@ -6,8 +6,8 @@ description: "An elder has been murdered and the Causa Scientiae order wants
 revenge (Seekers Beyond the Shroud)"
 tags: ["Seekers Beyond the Shroud"]
 imghtml: https://cf.geekdo-images.com/imagepage/img/vCCTcQIpUI_zUrLlI1rmMlF5a8M=/fit-in/900x600/filters:no_upscale()/pic5149175.jpg
+game: "Seekers"
 ---
-
 <p align="center"><img src="https://cf.geekdo-images.com/imagepage/img/vCCTcQIpUI_zUrLlI1rmMlF5a8M=/fit-in/900x600/filters:no_upscale()/pic5149175.jpg"></p>
 
 Play report of the 24th day of *Lana Vanne's ascension to the

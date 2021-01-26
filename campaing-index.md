@@ -28,10 +28,17 @@ Solo RPG campaigns that I'm running:
     [1]({{site.baseurl}}/2020/02/29/play-report-faust-cherubim-king-10-704/),
     [2]({{site.baseurl}}/2020/03/30/play-report-mothership-frozen-dreams/)
 
+* *Yet another adventure in the Whiteteeth Peninsula* with **Disciples of Bone &
+  Shadow: Conquered Sun Edition**.
+
+* *Forgotten and alone* (provisional title) with **[Forbidden
+  Lands](https://www.drivethrurpg.com/product/258593/Forbidden-Lands-Core-Game?affiliate_id=1914894)**.
+
+
 * *Adventures in the Whiteteeth Peninsula* with the upcoming **[Disciples of Bone
-  and
-  Shadow](https://www.drivethrurpg.com/product/278377/Disciples-of-Bone--Shadow?affiliate_id=1914894)
-  Narrative Playbook** (actual plays from the playtesting). 
+  & Shadow](https://www.drivethrurpg.com/product/278377/Disciples-of-Bone--Shadow?affiliate_id=1914894)
+  Narrative Playbook** (actual plays from the playtesting). See the item above
+  for the new writeups using this game.
   * Eldara's adventures: [part
     1]({{site.baseurl}}/2020/04/13/play-report-disciples-of-bone-and-shadow-playtest-1/),
     [part 2]({{site.baseurl}}/2020/04/16/play-report-disciples-of-bone-and-shadow-playtest-2/). RIP
@@ -66,27 +73,29 @@ about them:
 * [Troika!](https://www.drivethrurpg.com/product/269791/Troika-Numinous-Edition?affiliate_id=1914894)
   with [The Gardens of
   Ynn](https://www.drivethrurpg.com/product/237544/The-Gardens-Of-Ynn?affiliate_id=1914894) 
-* [Blooded: Ninefox](https://yhlee.itch.io/blooded); a solo jorunaling game
-  that uses a Tarot deck an a couple of d6s, it written by the sci-fi autor
-  Yoon Ha Lee, and it is based on one of his novels: Ninefox Gambit (GO READ
-  IT!)
-* [Ex novo](https://www.drivethrurpg.com/product/320563/Ex-Novo?affiliate_id=1914894)  
+* [Blooded: Ninefox](https://yhlee.itch.io/blooded). Based on Ninefox Gambit, a
+  scifi book by Yoon Ha Lee that has won Hugos.
+* [Ex
+  Novo](https://www.drivethrurpg.com/product/320563/Ex-Novo?affiliate_id=1914894)
+* [Ex Umbra](https://www.drivethrurpg.com/product/326646/Ex-Umbra?affiliate_id=1914894)
 * [Mausritter](https://www.drivethrurpg.com/product/313115/Mausritter?affiliate_id=1914894)
-
+* [Beak, Feather & Bone](https://www.drivethrurpg.com/product/311602/Beak-Feather--Bone?affiliate_id=1914894)
 
 On my queue:
 
-* [Forbidden
-  Lands](https://www.drivethrurpg.com/product/258593/Forbidden-Lands-Core-Game?affiliate_id=1914894)
 * [Yokai Hunters Society](https://punkpadour.itch.io/yokai-hunter)
+* [Ultraviolet
+  Grasslands](https://www.exaltedfuneral.com/products/the-ultra-violet-grasslands-and-the-black-city?_pos=1&_sid=d75268253&_ss=r)
+* [Neverland: A Fantasy Role-Playing Setting](https://amzn.to/3rLk9fn)
+* [Dancing with Bullets Under a Neon
+  Sun](https://www.drivethrurpg.com/product/332060/Dancing-with-Bullets-Under-a-Neon-Sun?affiliate_id=1914894)
+* [Rogueland](https://www.drivethrurpg.com/product/335988/ROGUELAND?affiliate_id=1914894)
 
 I'm waiting for...
 
-* [Ultraviolet
-  Grasslands](https://www.exaltedfuneral.com/products/the-ultra-violet-grasslands-and-the-black-city?_pos=1&_sid=d75268253&_ss=r),
-  preordered, on its way.
-* [Beak, Feather & Bone](https://www.drivethrurpg.com/product/311602/Beak-Feather--Bone?affiliate_id=1914894)
-  in transit until the Random God knows when due to USPS.
+* Old-School Essentials: Advanced Fantasy
+* Twilight: 2000
+* The Scourge of the Scorn Lords
   
 What I would like to try in the future:
 

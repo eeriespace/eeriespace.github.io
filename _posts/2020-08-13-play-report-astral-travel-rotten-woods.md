@@ -6,6 +6,7 @@ description: "It is the time to try astral travel to make a spirit pact with a
 Vestige (Seekers Beyond the Shroud)"
 tags: ["Seekers Beyond the Shroud"]
 imghtml: https://cf.geekdo-images.com/imagepage/img/vCCTcQIpUI_zUrLlI1rmMlF5a8M=/fit-in/900x600/filters:no_upscale()/pic5149175.jpg
+game: "Seekers"
 ---
 
 <p align="center"><img src="https://cf.geekdo-images.com/imagepage/img/vCCTcQIpUI_zUrLlI1rmMlF5a8M=/fit-in/900x600/filters:no_upscale()/pic5149175.jpg"></p>

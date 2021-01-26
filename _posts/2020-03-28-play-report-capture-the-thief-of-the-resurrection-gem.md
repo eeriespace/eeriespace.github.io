@@ -7,8 +7,8 @@ from the Siddha Order, and also recover the gem in the process (Seekers Beyond
 the Shroud)"
 tags: ["Seekers Beyond the Shroud"]
 imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200328-play-report-capture-the-thief-of-the-resurrection-gem/natural-history-museum.jpg
+game: "Seekers"
 ---
-
 <p align="center"><img src="https://cf.geekdo-images.com/imagepage/img/vCCTcQIpUI_zUrLlI1rmMlF5a8M=/fit-in/900x600/filters:no_upscale()/pic5149175.jpg"></p>
 
 

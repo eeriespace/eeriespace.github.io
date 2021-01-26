@@ -6,6 +6,7 @@ description: "Lana Vanne's second mission, recovering an ancient Egyptian
 amulet from the British Museum (Seekers Beyond the Shroud)"
 tags: ["Seekers Beyond the Shroud"]
 imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200227-play-report-the-egyptian-amulet/map-british-museum-egyptian-area.jpg
+game: "Seekers"
 ---
 
 <p align="center"><img src="https://cf.geekdo-images.com/imagepage/img/vCCTcQIpUI_zUrLlI1rmMlF5a8M=/fit-in/900x600/filters:no_upscale()/pic5149175.jpg"></p>

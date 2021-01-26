@@ -7,6 +7,7 @@ base for the characters, which happens to be a space station run by mercenaries
 and criminals"
 tags: [Mothership]
 imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200229-play-report-faust-cherubim-king-10-704/Faust-C.png
+game: "Mothership"
 ---
 
 This play report is the first session of my

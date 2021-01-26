@@ -6,6 +6,7 @@ description: "Lana Vanne's third mission, a dangerous rescue at an abandoned
 poison research lab (Seekers Beyond the Shroud)"
 tags: ["Seekers Beyond the Shroud"]
 imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200311-play-report-the-poison-research-lab/map-poison-research-lab.jpg
+game: "Seekers"
 ---
 
 <p align="center"><img src="https://cf.geekdo-images.com/imagepage/img/vCCTcQIpUI_zUrLlI1rmMlF5a8M=/fit-in/900x600/filters:no_upscale()/pic5149175.jpg"></p>

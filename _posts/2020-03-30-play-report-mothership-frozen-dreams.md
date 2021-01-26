@@ -6,6 +6,7 @@ description: "Second session of my Mothership solo campaign, where the main
 character is introduced and the story of the campaign sets off"
 tags: [Mothership]
 imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200330-play-report-mothership-frozen-dreams/mothership-faust-c-frozen-dreams.png
+game: "Mothership"
 ---
 
 This play report is the second session of my

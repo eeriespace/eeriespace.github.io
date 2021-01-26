@@ -7,6 +7,7 @@ description: "Lana Vanne's 5th and 6th missions, there is some spooky
  to sabotage (Seekers Beyond the Shroud)"
 tags: ["Seekers Beyond the Shroud"]
 imghtml: https://raw.githubusercontent.com/eeriespace/public-images/master/20200326-play-report-sinister-industrial-complex/sinister-industrial-complex.jpg
+game: "Seekers"
 ---
 
 <p align="center"><img src="https://cf.geekdo-images.com/imagepage/img/vCCTcQIpUI_zUrLlI1rmMlF5a8M=/fit-in/900x600/filters:no_upscale()/pic5149175.jpg"></p>
