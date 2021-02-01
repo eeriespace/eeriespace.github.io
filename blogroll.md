@@ -4,7 +4,7 @@ title: Blogroll
 permalink: /blogroll/
 ---
 
-In alphabetical order (also, in progress):
+In alphabetical order (also, always in progress):
 
 * [The Borderlands](https://dndborderlands.blogspot.com/)
 * [Beyond Fomalhaut](https://beyondfomalhaut.blogspot.com)
@@ -21,6 +21,7 @@ In alphabetical order (also, in progress):
 * [Neural Archive](https://neuralarchive.blogspot.com/)
 * [No One To Play With](https://noonetoplay.blogspot.com/)
 * [Paths Peculiar](https://www.wistedt.net/)
+* [Perplexing Ruins](https://perplexingruins.blogspot.com/)
 * [Save vs Dragon](https://savevsdragon.blogspot.com/)
 * [Save vs Total Party Kill](http://save.vs.totalpartykill.ca/)
 * [Throne of Salt](https://throneofsalt.blogspot.com/)
