@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Road to Madari
+title: Road to Madari (Part 1)
 category: "Play report"
 description: "A new solo Disciples of Bone & Shadow campaign: Road to Madari!"
 tags: [Disciples of Bone and Shadow]
@@ -283,7 +283,7 @@ a floodgate which has caused a catastrophic flood in the village. She takes the
 mission and heads east, she has a near-death experience, and couple of
 encounters, then she levels up.
 
-**Campaign goal:** Get to Madari and live a more comfortable live there.
+**Campaign goal:** Get to Madari and live a more comfortable life there.
 
 **Current mission:** Assassinate the hunter that destroyed the floodgate.
 
