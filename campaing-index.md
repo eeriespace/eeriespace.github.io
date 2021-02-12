@@ -28,15 +28,15 @@ Solo RPG campaigns that I'm running:
     [1]({{site.baseurl}}/2020/02/29/play-report-faust-cherubim-king-10-704/),
     [2]({{site.baseurl}}/2020/03/30/play-report-mothership-frozen-dreams/)
 
-* *Yet another adventure in the Whiteteeth Peninsula* with **Disciples of Bone &
-  Shadow: Conquered Sun Edition**.
+* *Road to Madari* with **Disciples of Bone & Shadow: Conquered Sun Edition**.
+  * Sessions: [1]({{site.baseurl}}/2021/02/12/play-report-conquered-sun-road-to-madari/)
 
 * *Forgotten and alone* (provisional title) with **[Forbidden
   Lands](https://www.drivethrurpg.com/product/258593/Forbidden-Lands-Core-Game?affiliate_id=1914894)**.
 
 
 * *Adventures in the Whiteteeth Peninsula* with the upcoming **[Disciples of Bone
-  & Shadow](https://www.drivethrurpg.com/product/278377/Disciples-of-Bone--Shadow?affiliate_id=1914894)
+  & Shadow](https://blackoathgames.com/store/disciples-of-bone-amp-shadow-basic-edition)
   Narrative Playbook** (actual plays from the playtesting). See the item above
   for the new writeups using this game.
   * Eldara's adventures: [part
@@ -46,7 +46,8 @@ Solo RPG campaigns that I'm running:
     3]({{site.baseurl}}/2020/04/21/play-report-disciples-of-bone-and-shadow-playtest-3/),
     [part
     4]({{site.baseurl}}/2020/07/13/play-report-disciples-of-bone-and-shadow-playtest-4/)
-    (I have to update these)
+    ~~(I have to update these)~~ I won't update these since I've started a new
+    campaign with another character.
 
 * Unnamed hexcrawl campaign with **[Labyrinth
   Lord](https://www.drivethrurpg.com/product/78524/Advanced-Edition-Companion-Labyrinth-Lord-noart-version)**
@@ -63,7 +64,14 @@ Solo RPG campaigns that I'm running:
 * **[Ruins of the
   Undercity](https://www.drivethrurpg.com/product/109821/Ruins-of-the-Undercity?affiliate_id=1914894)**
   with Old-School Essentials.
+
+* **[Hope](https://www.drivethrurpg.com/product/232710/Hope?affiliate_id=1914894)**. I've
+  only run a couple of session with it but I would like to spend more time with
+  it. There is a lack of non-gonzo style post-apocalyptic games, and if you
+  don't wanna play a gonzo post-apoc setting, to the best of my knowledge, Hope
+  is your only option.
   
+* **[Ironsworn]()**. I'm struggling a bit with this game.
 
 Interesting one shots that I've run, and maybe (or maybe not), I will write
 about them:
@@ -103,7 +111,6 @@ What I would like to try in the future:
 * [Ironsworn:
   Starforged](https://www.ironswornrpg.com/starforge-preview-july-2019), the
   upcoming Ironsworn book in space! 
-* [Hope](https://www.drivethrurpg.com/product/232710/Hope?affiliate_id=1914894)
 * [Never Going
    Home](https://www.drivethrurpg.com/product/283637/Never-Going-Home?affiliate_id=1914894)
 

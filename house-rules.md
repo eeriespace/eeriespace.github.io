@@ -18,7 +18,7 @@ playing:
    So, if you died 5 times you get Bandages x5 for your sixth character's
    starting equipment (plus anything that they get from their background).
 3. **Use my [Yōkai
-   Bestiary]({{site.baseurl}}/2020/03/22/the-yokai-bestiary-for-seekers-beyond-the-shroud/)**
+   Bestiary](https://mazmorreo.itch.io/the-yokai-bestiary-for-seekers)**
    to extend and substitute the official yōkai foe.
 4. **When there is a initiative tie in combat, the side with higher DEX wins.**
    If there is another tie, the side with highest HP wins. If there is again
