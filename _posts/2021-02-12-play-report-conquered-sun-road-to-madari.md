@@ -47,7 +47,9 @@ Tempered II*, that I will put it into DEX, and I have 2EPs to spend, I get
 *Disarm Traps* and convert the remaining EP to 10 skill points for *Herb
 lore*. Then I'm going to redistribute 10 skill points to Parry, since my
 character uses a sword, and that gives me +10 parry, so, I will be avoiding
-attacks using parry instead of dodge.
+attacks using parry instead of dodge. Update: also, parry is for melee and
+dodge for ranged attacks, and there is a lot of melee combat on Disciples, so
+we want to have a strong parry skill.
 
 So, apart from the basic skills my character has: *Concussive Shot* and *Disarm
 Traps*, she also has *Markmanship* as a passive skill; she is equipped with a
