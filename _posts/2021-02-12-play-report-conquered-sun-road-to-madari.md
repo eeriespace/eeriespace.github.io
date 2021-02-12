@@ -2,7 +2,7 @@
 layout: post
 title: Road to Madari
 category: "Play report"
-description: ""
+description: "A new solo Disciples of Bone & Shadow campaign: Road to Madari!"
 tags: [Disciples of Bone and Shadow]
 imghtml: https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1605485808647-BGPAK0JNZX3BFZEAJ2I7/ke17ZwdGBToddI8pDm48kCNOb2SIBUBn6TVWlOMA4Ul7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0p5uBJOnOmCWBN4JfYsIDyQsr0Ix-nEqR6qXG9XZSVMj3ESfBY8LMMbE33ZXW-8_PA/Cover+mockup.jpg?format=300w
 game: "Disciples"
