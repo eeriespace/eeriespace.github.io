@@ -29,7 +29,9 @@ Solo RPG campaigns that I'm running:
     [2]({{site.baseurl}}/2020/03/30/play-report-mothership-frozen-dreams/)
 
 * *Road to Madari* with **Disciples of Bone & Shadow: Conquered Sun Edition**.
-  * Sessions: [1]({{site.baseurl}}/2021/02/12/play-report-conquered-sun-road-to-madari/)
+  * Sessions:
+    [1]({{site.baseurl}}/2021/02/12/play-report-conquered-sun-road-to-madari/),
+    [2]({{site.baseurl}}/2021/03/27/play-report-conquered-sun-road-to-madari-2/)
 
 * *Forgotten and alone* (provisional title) with **[Forbidden
   Lands](https://www.drivethrurpg.com/product/258593/Forbidden-Lands-Core-Game?affiliate_id=1914894)**.
