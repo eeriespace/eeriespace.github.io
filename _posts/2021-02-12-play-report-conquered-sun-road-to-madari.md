@@ -59,7 +59,7 @@ provisions x10 and bandages x10.
 ## Play report
 
 <p align="center"><img
-src="https://raw.githubusercontent.com/eeriespace/public-images/master/20210212-play-report-road-to-madari/20210212-road-madari.png"></p>
+src="https://live.staticflickr.com/65535/51007575765_5f25b730cb_o.png"></p>
 
 Thythe was born in a poor settlement near Deathroot Marsh; hunger came and she
 moved with her parents to Madari, where they served as soldiers and

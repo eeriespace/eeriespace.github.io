@@ -17,7 +17,7 @@ yokai.
 
 
 
-I have another blog in Spanish were I review solo/solo-able board games and
+I have another blog in Spanish where I review solo/solo-able board games and
 RPGs at [https://mazmorreoensolitario.com](https://mazmorreoensolitario.com)
 
 
