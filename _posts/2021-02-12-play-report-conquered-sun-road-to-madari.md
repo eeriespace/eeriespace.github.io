@@ -71,7 +71,7 @@ who protected them all from the sea monsters after all.
 
 > We start in a random hex.
 
-**· HEX I23, Akkard Strand.** Thythe is done with Akkar Strand. Life is
+**· HEX I23, Akkar Strand.** Thythe is done with Akkar Strand. Life is
 difficult in here. She won't go back to providing security for fishermen, so
 she will go back to Madari. She doesn't want to admit it, but her old parents
 took the right decision when they moved from Deathrot Marsh and settled in
@@ -107,7 +107,7 @@ hear the sound of hundreds of goats marching.  There is a woman with her dog
 looking at Thythe. Thythe raises her soaked hands, she doesn't want to appear
 threatening, although since she is covered in mud she doubts that she will. She
 asks for directions to the goatherd. She tells
-her a little bit about this region of the Akkard Strand, Thythe thanks her and
+her a little bit about this region of the Akkar Strand, Thythe thanks her and
 keeps going. Once that she has put some distance between her and the goat-lady
 she eats her daily ration while she looks for any herb that may prove useful.
 
@@ -191,7 +191,7 @@ intact. She also buys lamp oil, just in case. ``+13 rations, +1 lamp oil``
 ``Orientation fail, no surprise`` ``Twist: 0 -> 1`` ``Name: Clear Wood``
 ``Event: Disappearing Townsfolk`` ``+2XP hex``
 
-**· HEX F19, A.S.** Thythe hears the horrible sounds of a **Spawn of Vhol'Est**
+**· HEX F18, A.S.** Thythe hears the horrible sounds of a **Spawn of Vhol'Est**
 in the near distance, and then she readies her long bow. She uses her 
 Markmanship skill to aim at it, and the abomination comes closer. Her arrow
 misses the enemy and she draws her sword. She decides to fight it, she is angry
@@ -278,7 +278,7 @@ enemy``  ``+2XP HEX``
 
 ## Recap
 
-**tldr:** Thythe is feed up with living in Akkard Strand, she decides to return
+**tldr:** Thythe is feed up with living in Akkar Strand, she decides to return
 where her parents live, Madari. She heads north-west and encounters a
 settlement, they reluctantly ask her to get rid of a hunter that has destroyed
 a floodgate which has caused a catastrophic flood in the village. She takes the

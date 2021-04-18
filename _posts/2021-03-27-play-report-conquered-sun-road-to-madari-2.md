@@ -14,7 +14,7 @@ game: "Disciples"
 
 **Previously, on [part
 1 of *Road to Madari*...]({{site.baseurl}}/2021/02/12/play-report-conquered-sun-road-to-madari/)**
-Thythe is feed up with living in Akkard Strand, she decides to return where her
+Thythe is feed up with living in Akkar Strand, she decides to return where her
 parents live, Madari. She heads north-west and encounters a settlement, they
 reluctantly ask her to get rid of a hunter that has destroyed a floodgate which
 has caused a catastrophic flood in the village. She takes the mission and heads
@@ -26,7 +26,7 @@ levels up.
 <p align="center"><img
 src="https://live.staticflickr.com/65535/51076859077_2042ff0eca_o.png"></p>
 
-**· HEX J18, Akkard Strand.** Thythe finds the remains of a caravan covered by
+**· HEX J18, Akkar Strand.** Thythe finds the remains of a caravan covered by
 volcanic ash. Whatever was it what happened here, no one was left alive. Thythe
 doesn't know what to think about this scene, volcanic ash suggests nearby lava
 or a fire, but the carts aren't burned, moreover there are small black spiders
@@ -198,6 +198,6 @@ we need to go back to the patron.
 
 **Side mission tracker:**
 1. Investigate the hidden cave where the Spawn of
-Vhol'Est attacked (Hex I19)
+Vhol'Est attacked (Hex F18)
 2. Investigate the remains of the caravan (Hex J18)
 3. Explore the ruins (Hex N18)

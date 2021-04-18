@@ -22,19 +22,23 @@ Solo RPG campaigns that I'm running:
   [29]({{site.baseurl}}/2020/08/13/play-report-astral-travel-rotten-woods/),
   [30-38]({{site.baseurl}}/2020/08/24/play-report-recover-jar-devotion/)
 
+* *Road to Madari* with **Disciples of Bone & Shadow: Conquered Sun Edition**.
+  * Sessions:
+    [1]({{site.baseurl}}/2021/02/12/play-report-conquered-sun-road-to-madari/),
+    [2]({{site.baseurl}}/2021/03/27/play-report-conquered-sun-road-to-madari-2/),
+    [3]({{site.baseurl}}/2021/04/18/play-report-conquered-sun-road-to-madari-3/)
+
+* *Heavy Rain and Neon Lights* with **[Dancing with Bullets Under a Neon Sun](https://www.drivethrurpg.com/product/332060/Dancing-with-Bullets-Under-a-Neon-Sun?affiliate_id=1914894)**.
+  * Sessions: 1
+
+* *Forgotten and alone* (provisional title) with **[Forbidden
+  Lands](https://www.drivethrurpg.com/product/258593/Forbidden-Lands-Core-Game?affiliate_id=1914894)**.
+
 * Unnamed campaign with
   **[Mothership](https://www.drivethrurpg.com/product/245017/Mothership-Players-Survival-Guide?affiliate_id=1914894)**.
   * Sessions:
     [1]({{site.baseurl}}/2020/02/29/play-report-faust-cherubim-king-10-704/),
     [2]({{site.baseurl}}/2020/03/30/play-report-mothership-frozen-dreams/)
-
-* *Road to Madari* with **Disciples of Bone & Shadow: Conquered Sun Edition**.
-  * Sessions:
-    [1]({{site.baseurl}}/2021/02/12/play-report-conquered-sun-road-to-madari/),
-    [2]({{site.baseurl}}/2021/03/27/play-report-conquered-sun-road-to-madari-2/)
-
-* *Forgotten and alone* (provisional title) with **[Forbidden
-  Lands](https://www.drivethrurpg.com/product/258593/Forbidden-Lands-Core-Game?affiliate_id=1914894)**.
 
 
 * *Adventures in the Whiteteeth Peninsula* with the upcoming **[Disciples of Bone
@@ -97,8 +101,6 @@ On my queue:
 * [Ultraviolet
   Grasslands](https://www.exaltedfuneral.com/products/the-ultra-violet-grasslands-and-the-black-city?_pos=1&_sid=d75268253&_ss=r)
 * [Neverland: A Fantasy Role-Playing Setting](https://amzn.to/3rLk9fn)
-* [Dancing with Bullets Under a Neon
-  Sun](https://www.drivethrurpg.com/product/332060/Dancing-with-Bullets-Under-a-Neon-Sun?affiliate_id=1914894)
 * [Rogueland](https://www.drivethrurpg.com/product/335988/ROGUELAND?affiliate_id=1914894)
 
 I'm waiting for...
