@@ -20,13 +20,15 @@ Solo RPG campaigns that I'm running:
   [24]({{site.baseurl}}/2020/08/09/play-report-eye-for-an-eye-assassination-for-the-causa-scientiae/),
   [25-28]({{site.baseurl}}/2020/08/12/play-report-release-the-stockbroker/),
   [29]({{site.baseurl}}/2020/08/13/play-report-astral-travel-rotten-woods/),
-  [30-38]({{site.baseurl}}/2020/08/24/play-report-recover-jar-devotion/)
+  [30-38]({{site.baseurl}}/2020/08/24/play-report-recover-jar-devotion/)... I
+  really need to update these.
 
 * *Road to Madari* with **Disciples of Bone & Shadow: Conquered Sun Edition**.
   * Sessions:
     [1]({{site.baseurl}}/2021/02/12/play-report-conquered-sun-road-to-madari/),
     [2]({{site.baseurl}}/2021/03/27/play-report-conquered-sun-road-to-madari-2/),
-    [3]({{site.baseurl}}/2021/04/18/play-report-conquered-sun-road-to-madari-3/)
+    [3]({{site.baseurl}}/2021/04/18/play-report-conquered-sun-road-to-madari-3/)... I
+    also need to update these.
 
 * *Heavy Rain and Neon Lights* with **[Dancing with Bullets Under a Neon Sun](https://www.drivethrurpg.com/product/332060/Dancing-with-Bullets-Under-a-Neon-Sun?affiliate_id=1914894)**.
   * Sessions: 1
@@ -59,7 +61,8 @@ Solo RPG campaigns that I'm running:
   Lord](https://www.drivethrurpg.com/product/78524/Advanced-Edition-Companion-Labyrinth-Lord-noart-version)**
   (which is in the process of being switched to [Old School
   Essentials](https://necroticgnome.com/collections/old-school-essentials)).
-  * On hiatus until I get the new Old-School Essentials Advanced Fantasy book.
+  * ~~On hiatus until I get the new Old-School Essentials Advanced Fantasy
+    book.~~ I am back with it!!
   
 * **[Barrowmaze](https://www.drivethrurpg.com/product/139762/Barrowmaze-Complete?affiliate_id=1914894)**
  with Old-School Essentials.
@@ -77,7 +80,7 @@ Solo RPG campaigns that I'm running:
   don't wanna play a gonzo post-apoc setting, to the best of my knowledge, Hope
   is your only option.
   
-* **[Ironsworn]()**. I'm struggling a bit with this game.
+* **[Ironsworn](https://www.drivethrurpg.com/product/238369/Ironsworn?affiliate_id=1914894)**. I'm struggling a bit with this game.
 
 Interesting one shots that I've run, and maybe (or maybe not), I will write
 about them:
@@ -97,6 +100,10 @@ about them:
 
 On my queue:
 
+* [Whitehack 3e](https://www.drivethrurpg.com/product/348152/Whitehack-Third-Edition?affiliate_id=1914894)
+* [The Vast in the Dark](https://www.drivethrurpg.com/product/363439/The-Vast-in-the-Dark?affiliate_id=1914894)
+* [Blades in the Dark](https://www.drivethrurpg.com/product/170689/Blades-in-the-Dark?affiliate_id=1914894)
+* [The Scourge of the Scorn Lords](https://www.drivethrurpg.com/product/349942/The-Scourge-of-the-Scorn-Lords?affiliate_id=1914894)
 * [Yokai Hunters Society](https://punkpadour.itch.io/yokai-hunter)
 * [Ultraviolet
   Grasslands](https://www.exaltedfuneral.com/products/the-ultra-violet-grasslands-and-the-black-city?_pos=1&_sid=d75268253&_ss=r)
@@ -105,16 +112,13 @@ On my queue:
 
 I'm waiting for...
 
-* Old-School Essentials: Advanced Fantasy
 * Twilight: 2000
-* The Scourge of the Scorn Lords
-  
+* Death In Space
+* Ironsworn: Starforged
+
 What I would like to try in the future:
 
 * [Downcrawl](https://www.drivethrurpg.com/product/278571/Downcrawl?affiliate_id=1914894)
-* [Ironsworn:
-  Starforged](https://www.ironswornrpg.com/starforge-preview-july-2019), the
-  upcoming Ironsworn book in space! 
 * [Never Going
    Home](https://www.drivethrurpg.com/product/283637/Never-Going-Home?affiliate_id=1914894)
 
