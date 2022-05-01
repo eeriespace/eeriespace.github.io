@@ -73,7 +73,7 @@ instinct.
 >
 > [No encounter, hills]
 
-`Are there tracks? yes, soft, no 24h, hiden` [tracking, 20% success rate: roll OK]
+`Are there tracks? yes, soft, no 24h, hidden` [tracking, 20% success rate: roll OK]
 
 Ered finally finds some tracks that she can follow `Do they end nearby? No` The
 tracks seem to go East [d8 compass die] `Do they go back to the village? No`
@@ -320,7 +320,7 @@ lost three companions.
   core rules. 
 - Carcass Crawler Issue 0 ([KS
   exclusive](https://twitter.com/necroticgnome/status/1309791182155853826?lang=en),
-  haven't found the PDF anywhere, sorry!), rules or the Warden class.
+  haven't found the PDF anywhere, sorry!), rules for the Warden class.
 - [Scarlet Heroes](https://www.drivethrurpg.com/product/127180/Scarlet-Heroes?affiliate_id=1914894),
   solo oracles and hex terrain assignment rules.
 - [d30 Sandbox
