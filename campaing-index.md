@@ -42,6 +42,10 @@ Solo RPG campaigns that I'm running:
     [1]({{site.baseurl}}/2020/02/29/play-report-faust-cherubim-king-10-704/),
     [2]({{site.baseurl}}/2020/03/30/play-report-mothership-frozen-dreams/)
 
+* *Noltere hex-crawl adventures* with **[Old-School
+  Essentials](https://www.drivethrurpg.com/product/336584/OldSchool-Essentials-Advanced-Fantasy-Players-Tome?affiliate_id=1914894)**.
+  * Sessions:
+    [1-2]({{site.baseurl}}/2022/05/01/play-report-ose-hexcrawl-noltere-p1/)
 
 * *Adventures in the Whiteteeth Peninsula* with the upcoming **[Disciples of Bone
   & Shadow](https://blackoathgames.com/store/disciples-of-bone-amp-shadow-basic-edition)
@@ -62,7 +66,7 @@ Solo RPG campaigns that I'm running:
   (which is in the process of being switched to [Old School
   Essentials](https://necroticgnome.com/collections/old-school-essentials)).
   * ~~On hiatus until I get the new Old-School Essentials Advanced Fantasy
-    book.~~ I am back with it!!
+    book.~~ I am back at it, see *Noltere hex-crawl adventures* above!
   
 * **[Barrowmaze](https://www.drivethrurpg.com/product/139762/Barrowmaze-Complete?affiliate_id=1914894)**
  with Old-School Essentials.
