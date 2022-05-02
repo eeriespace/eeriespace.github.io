@@ -54,7 +54,7 @@ src="https://live.staticflickr.com/65535/52042148539_1e0f106cd7_o.png"></p>
 
 Ered arrived early in the morning to **Tars-ôl**, a small village of the
 mostly-human controlled **Noltere** region, which had asked for assistance to
-her elder wardens and they had sent here. The quest is simple, some kind of
+her elder wardens and they had sent her here. The quest is simple, some kind of
 wild beast is attacking their cattle and with the winter closing by, they need
 the problem addressed. Ered has been tasked with tracking this wild beast to
 its lair and uncovering their nature. After this the villagers will think what
@@ -93,7 +93,7 @@ fly away from nearby trees and she mentally curses her clumsiness. `Do any
 beasts come? No` [tracking, 22% success rate: roll OK] `Do the tracks end in
 this hex? Yes` Ered finally sees where the tracks head to.
 
-`More info, d30 companion, trigger: trap` There are some odd tracks nearby `Is
+`More info, d30 companion, trigger: trap` There are some odd traps nearby `Is
 there something on those? No`, but they haven't caught anything and they
 haven't been manipulated either. But the tracks definitely end here. She is
 sure of it.
