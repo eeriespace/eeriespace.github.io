@@ -5,10 +5,11 @@ category: "Play report"
 description: "Kiur's story (Part 1) - Playtest #3 of Disciples of Bone and Shadow's
 expansion, the Narrative Playbook"
 tags: [Disciples of Bone and Shadow]
-imghtml: https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1585678108519-CBRGYYCRJZ2V9G0HYDTI/ke17ZwdGBToddI8pDm48kFBffkseagYn7mI_lqGhucB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua0lhRhdc7zM0rdkFZwl4rm_EydcEib8z0GPZ_xcr7vEj98zSYky2TCTwUpJT7udpA/image-asset.jpeg?format=750w
+imghtml: https://cf.geekdo-images.com/UnnPds7pIK6y0M6RF9xgmA__imagepage/img/xXN9ltyR9HXDMckiSSlrcjeUMIM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5688840.png
+game: "Disciples"
 ---
 
-<p align="center"><img src="https://images.squarespace-cdn.com/content/v1/5d9b9e602f7a5637cf2b6c41/1585678108519-CBRGYYCRJZ2V9G0HYDTI/ke17ZwdGBToddI8pDm48kFBffkseagYn7mI_lqGhucB7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ua0lhRhdc7zM0rdkFZwl4rm_EydcEib8z0GPZ_xcr7vEj98zSYky2TCTwUpJT7udpA/image-asset.jpeg?format=750w"></p>
+<p align="center"><img src="https://cf.geekdo-images.com/UnnPds7pIK6y0M6RF9xgmA__imagepage/img/xXN9ltyR9HXDMckiSSlrcjeUMIM=/fit-in/900x600/filters:no_upscale():strip_icc()/pic5688840.png"></p>
 
 This is the third play report (links to the [first
 one]({{site.baseurl}}/2020/04/13/play-report-disciples-of-bone-and-shadow-playtest-1/)
